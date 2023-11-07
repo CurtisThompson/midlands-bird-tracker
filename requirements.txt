@@ -4,3 +4,4 @@ os
 polars
 time
 random
+dateutil

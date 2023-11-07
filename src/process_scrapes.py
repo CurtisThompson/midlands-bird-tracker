@@ -2,6 +2,8 @@ import polars as pl
 from geopy.geocoders import Nominatim
 from time import sleep
 from random import random
+import dateutil.parser as dateparser
+import datetime
 
 
 def get_location_coordinates(location):
@@ -67,4 +69,11 @@ if df_loc_missing.select(pl.count()).item() > 0:
 
 # Add coordinates back to main dataframe
 df = df.join(df_loc, on='FullLocation', how='left')
-print(df)
+
+# Format Date as a datetime
+df = df.with_columns(pl.col('Date').apply(dateparser.parse).alias('DateFormatted'))
+# If in the future then the year needs moving back one
+df = df.with_columns(pl.when(pl.col('DateFormatted') > datetime.datetime.now())
+                     .then(pl.col('DateFormatted').dt.offset_by('-1y'))
+                     .otherwise(pl.col('DateFormatted'))
+                     .alias('DateFormatted'))
