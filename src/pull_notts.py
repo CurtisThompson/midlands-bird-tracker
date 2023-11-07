@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+import polars as pl
 
+COUNTY = 'Nottinghamshire'
 URL = 'https://www.nottsbirders.net/latest_sightings.html'
 
 # Request page contents
@@ -48,5 +50,10 @@ for birddate in date_bird_tuples:
         if birdtext.startswith('- ') or birdtext.startswith(': '):
             birdtext = birdtext[2:].strip()
         location = location.strip()
-        location_sightings.append([date, location, birdtext])
+        location_sightings.append([COUNTY, date, location, birdtext])
         print([date, location, birdtext])
+
+# Convert to dataframe and store
+df = pl.DataFrame(location_sightings, orient='row')
+df.columns = ['County', 'Date', 'Location', 'BirdText']
+df.write_parquet('./data/scrape_extracts/notts.parquet')

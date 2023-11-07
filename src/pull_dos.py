@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+import polars as pl
 
+COUNTY = 'Derbyshire'
 URL = 'https://www.derbyshireos.org.uk/news.php'
 
 # Request page contents
@@ -27,5 +29,10 @@ for birddate in birdnavs:
         location = li.find('strong').getText()
         birdtext = li.getText().replace(location, '').strip()
         location = location.strip()
-        location_sightings.append([date, location, birdtext])
+        location_sightings.append([COUNTY, date, location, birdtext])
         print([date, location, birdtext])
+
+# Convert to dataframe and store
+df = pl.DataFrame(location_sightings, orient='row')
+df.columns = ['County', 'Date', 'Location', 'BirdText']
+df.write_parquet('./data/scrape_extracts/dos.parquet')

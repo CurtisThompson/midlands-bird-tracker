@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+import polars as pl
 
+COUNTY = 'Leicestershire'
 URL = 'https://lros.org.uk/sightings-records/latest-bird-news/'
 
 # Request page contents
@@ -47,7 +49,11 @@ for birddate in date_bird_tuples:
             if birdtext.startswith('- ') or birdtext.startswith(': '):
                 birdtext = birdtext[2:].strip()
             location = location.strip()
-            location_sightings.append([date, location, birdtext])
-            print([date, location, birdtext])
+            location_sightings.append([COUNTY, date, location, birdtext])
         except:
             print(f'Tuple extraction failed for {str(li)}')
+
+# Convert to dataframe and store
+df = pl.DataFrame(location_sightings, orient='row')
+df.columns = ['County', 'Date', 'Location', 'BirdText']
+df.write_parquet('./data/scrape_extracts/lros.parquet')
