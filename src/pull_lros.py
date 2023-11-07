@@ -25,17 +25,29 @@ for a in articles:
     for extract in date_texts:
         try:
             parts = extract.split('</h4>')
-            extract_date = parts[0]
-            extract_birds = parts[1]
+            extract_date = parts[0].strip()
+            extract_birds = parts[1].strip()
             date_bird_tuples.append((extract_date, extract_birds))
         except:
             print(f'Date extract failed: {str(extract)[50:]}...')
 
 
-for a in date_bird_tuples:
-    print(a[0])
-    print(a[1])
-    print()
-    print()
-    print()
-    print()
+# Split tuples into [date, location, bird text]
+location_sightings = []
+for birddate in date_bird_tuples:
+    date = birddate[0]
+    fulltext = BeautifulSoup(birddate[1], features='lxml')
+
+    # Split location and text
+    list_items = fulltext.find_all('p')
+    for li in list_items:
+        try:
+            location = li.find('em').getText()
+            birdtext = li.getText().replace(location, '').strip()
+            if birdtext.startswith('- ') or birdtext.startswith(': '):
+                birdtext = birdtext[2:].strip()
+            location = location.strip()
+            location_sightings.append([date, location, birdtext])
+            print([date, location, birdtext])
+        except:
+            print(f'Tuple extraction failed for {str(li)}')

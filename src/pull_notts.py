@@ -45,7 +45,7 @@ for birddate in date_bird_tuples:
     for li in list_items:
         location = li.find('span').getText()
         birdtext = li.getText().replace(location, '').strip()
-        if birdtext.startswith('- '):
+        if birdtext.startswith('- ') or birdtext.startswith(': '):
             birdtext = birdtext[2:].strip()
         location = location.strip()
         location_sightings.append([date, location, birdtext])
