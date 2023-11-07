@@ -1,0 +1,6 @@
+requests
+bs4
+os
+polars
+time
+random

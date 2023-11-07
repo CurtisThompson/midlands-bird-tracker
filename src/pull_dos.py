@@ -29,6 +29,8 @@ for birddate in birdnavs:
         location = li.find('strong').getText()
         birdtext = li.getText().replace(location, '').strip()
         location = location.strip()
+        if (location[-8] == '(') and (location[-1] == ')'):
+            location = location[:-9]
         location_sightings.append([COUNTY, date, location, birdtext])
         print([date, location, birdtext])
 
