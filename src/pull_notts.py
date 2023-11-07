@@ -34,10 +34,19 @@ for extract in date_texts:
         print(f'Date extract failed: {str(extract)[50:]}...')
 
 
-for a in date_bird_tuples:
-    print(a[0])
-    print(a[1])
-    print()
-    print()
-    print()
-    print()
+# Split tuples into [date, location, bird text]
+location_sightings = []
+for birddate in date_bird_tuples:
+    date = birddate[0]
+    fulltext = BeautifulSoup(birddate[1], features='lxml')
+
+    # Split location and text
+    list_items = fulltext.find_all('p')
+    for li in list_items:
+        location = li.find('span').getText()
+        birdtext = li.getText().replace(location, '').strip()
+        if birdtext.startswith('- '):
+            birdtext = birdtext[2:].strip()
+        location = location.strip()
+        location_sightings.append([date, location, birdtext])
+        print([date, location, birdtext])
