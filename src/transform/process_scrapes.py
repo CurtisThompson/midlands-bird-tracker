@@ -102,7 +102,7 @@ def run():
     df = add_location_coordinates_column(df, CACHED_COORDINATE_FILE)
 
     # Format Date as a datetime
-    date_strings_to_datetime(df, 'Date')
+    df = date_strings_to_datetime(df, 'Date')
 
     # Save processed sightings
     df.write_parquet(OUTPUT_FILE)
