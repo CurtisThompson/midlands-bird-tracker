@@ -6,9 +6,18 @@ import dateutil.parser as dateparser
 import datetime
 
 
-def get_location_coordinates(location):
+COORDINATE_API_USER_AGENT = 'midlands-bird-tracker'
+CACHED_COORDINATE_FILE = './data/location_coordinates.parquet'
+OUTPUT_FILE = './data/bird_sightings.parquet'
+SCRAPED_FILES = ['./data/scrape_extracts/dos.parquet',
+                 './data/scrape_extracts/lros.parquet',
+                 './data/scrape_extracts/notts.parquet']
+
+
+def get_location_coordinates(location, user_agent=COORDINATE_API_USER_AGENT):
+    """Retrieve coordinates of string-based location using API."""
     try:
-        geolocator = Nominatim(user_agent="midlands-bird-tracker")
+        geolocator = Nominatim(user_agent=user_agent)
         loc = geolocator.geocode(location)
         sleep(random())
         return {'Latitude':loc.latitude, 'Longitude':loc.longitude}
@@ -16,67 +25,88 @@ def get_location_coordinates(location):
         return {'Latitude':0.0, 'Longitude':0.0}
 
 
-# Import all scraped sightings
-dfs = [pl.read_parquet('./data/scrape_extracts/dos.parquet'),
-       pl.read_parquet('./data/scrape_extracts/lros.parquet'),
-       pl.read_parquet('./data/scrape_extracts/notts.parquet')]
-df = pl.concat(dfs, how='vertical_relaxed')
+def add_location_coordinates_column(df, cache_file=CACHED_COORDINATE_FILE):
+    """Add latitude and longitude columns from string-based location column."""
+    # Get dataframe of unique locations
+    df_loc = df.unique('FullLocation').select('FullLocation')
 
-# Get full location with county and country
-df = df.with_columns(
-    pl.format('{}, {}, England', 'Location', 'County').alias('FullLocation')
-)
+    # Load existing locations
+    df_loc_existing = df._read_parquet(cache_file)
 
-# Get dataframe of unique locations
-df_loc = df.unique('FullLocation').select('FullLocation')
+    # Join coordinates to unique locations
+    df_loc = df_loc.join(df_loc_existing, on='FullLocation', how='left').fill_null(0.0)
 
-# Load existing locations
-df_loc_existing = df._read_parquet('./data/location_coordinates.parquet')
+    # Find all locations without proper coordinates
+    df_loc_missing = df_loc.filter((pl.col('Latitude') == 0)
+                                & (pl.col('Longitude') == 0))
+    df_loc_missing = df_loc_missing.select('FullLocation')
 
-# Join coordinates to unique locations
-df_loc = df_loc.join(df_loc_existing, on='FullLocation', how='left').fill_null(0.0)
+    # Attempt to find latitude and longitude of missing locations
+    df_loc_missing = df_loc_missing.with_columns(pl.col('FullLocation')
+                                                .apply(get_location_coordinates)
+                                                .alias('Coordinates'))
+    df_loc_missing = df_loc_missing.unnest('Coordinates')
 
-# Find all locations without proper coordinates
-df_loc_missing = df_loc.filter((pl.col('Latitude') == 0)
-                               & (pl.col('Longitude') == 0))
-df_loc_missing = df_loc_missing.select('FullLocation')
+    # Save new found coordinates
+    df_loc_missing = df_loc_missing.filter((pl.col('Latitude') != 0)
+                                        & (pl.col('Longitude') != 0))
+    if df_loc_missing.select(pl.count()).item() > 0:
+        # Add to unique location dataframe
+        df_loc = df_loc.join(df_loc_missing, on='FullLocation', how='left', suffix='_n')
+        df_loc = df_loc.with_columns([pl.when((pl.col('Latitude') == 0) & (pl.col('Latitude_n') != 0))
+                                    .then(pl.col('Latitude_n'))
+                                    .otherwise(pl.col('Latitude'))
+                                    .alias('Latitude'),
+                                    pl.when((pl.col('Longitude') == 0) & (pl.col('Longitude_n') != 0))
+                                    .then(pl.col('Longitude_n'))
+                                    .otherwise(pl.col('Longitude'))
+                                    .alias('Longitude')])
+        df_loc = df_loc.drop(columns=['Latitude_n', 'Longitude_n'])
 
-# Attempt to find latitude and longitude of missing locations
-df_loc_missing = df_loc_missing.with_columns(pl.col('FullLocation')
-                                             .apply(get_location_coordinates)
-                                             .alias('Coordinates'))
-df_loc_missing = df_loc_missing.unnest('Coordinates')
+        # Add to and save all known locations
+        df_loc_existing = pl.concat([df_loc_existing, df_loc_missing]).unique(['FullLocation'],
+                                                                              keep='first',
+                                                                              maintain_order=True)
+        df_loc_existing.write_parquet(cache_file)
 
-# Save new found coordinates
-df_loc_missing = df_loc_missing.filter((pl.col('Latitude') != 0)
-                                       & (pl.col('Longitude') != 0))
-if df_loc_missing.select(pl.count()).item() > 0:
-    # Add to unique location dataframe
-    df_loc = df_loc.join(df_loc_missing, on='FullLocation', how='left', suffix='_n')
-    df_loc = df_loc.with_columns([pl.when((pl.col('Latitude') == 0) & (pl.col('Latitude_n') != 0))
-                                 .then(pl.col('Latitude_n'))
-                                 .otherwise(pl.col('Latitude'))
-                                 .alias('Latitude'),
-                                 pl.when((pl.col('Longitude') == 0) & (pl.col('Longitude_n') != 0))
-                                 .then(pl.col('Longitude_n'))
-                                 .otherwise(pl.col('Longitude'))
-                                 .alias('Longitude')])
-    df_loc = df_loc.drop(columns=['Latitude_n', 'Longitude_n'])
+    # Add coordinates back to main dataframe
+    df = df.join(df_loc, on='FullLocation', how='left')
 
-    # Add to and save all known locations
-    df_loc_existing = pl.concat([df_loc_existing, df_loc_missing]).unique(['FullLocation'], keep='first', maintain_order=True)
-    df_loc_existing.write_parquet('./data/location_coordinates.parquet')
+    return df
 
-# Add coordinates back to main dataframe
-df = df.join(df_loc, on='FullLocation', how='left')
 
-# Format Date as a datetime
-df = df.with_columns(pl.col('Date').apply(dateparser.parse).alias('DateFormatted'))
-# If in the future then the year needs moving back one
-df = df.with_columns(pl.when(pl.col('DateFormatted') > datetime.datetime.now())
-                     .then(pl.col('DateFormatted').dt.offset_by('-1y'))
-                     .otherwise(pl.col('DateFormatted'))
-                     .alias('DateFormatted'))
+def date_strings_to_datetime(df, col):
+    """Take a string-based date column and convert to datetime type."""
+    col_new = f'{str(col)}Formatted'
+    df = df.with_columns(pl.col(col).apply(dateparser.parse).alias(col_new))
+    # If in the future then the year needs moving back one
+    df = df.with_columns(pl.when(pl.col(col_new) > datetime.datetime.now())
+                        .then(pl.col(col_new).dt.offset_by('-1y'))
+                        .otherwise(pl.col(col_new))
+                        .alias(col_new))
+    return df
 
-# Save processed sightings
-df.write_parquet('./data/bird_sightings.parquet')
+
+def run():
+    """Load scraped sightings, add info, and save as one parquet."""
+    # Import all scraped sightings
+    dfs = [pl.read_parquet(f) for f in SCRAPED_FILES]
+    df = pl.concat(dfs, how='vertical_relaxed')
+
+    # Get full location with county and country
+    df = df.with_columns(
+        pl.format('{}, {}, England', 'Location', 'County').alias('FullLocation')
+    )
+
+    # Find latitude and longitude of locations
+    df = add_location_coordinates_column(df, CACHED_COORDINATE_FILE)
+
+    # Format Date as a datetime
+    date_strings_to_datetime(df, 'Date')
+
+    # Save processed sightings
+    df.write_parquet(OUTPUT_FILE)
+
+
+if __name__ == "__main__":
+    run()
