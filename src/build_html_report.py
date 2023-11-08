@@ -9,27 +9,41 @@ df = df.filter(pl.col('DateFormatted').is_between(datetime.now() - timedelta(day
 # Sort by display order
 df = df.sort(by=pl.col('County'), descending=False).sort(by=pl.col('DateFormatted'), descending=True)
 
+# Prepare html document
+html = '''<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="report-container">
+<h1>Recent Midlands Bird Sightings</h1>\n'''
+
 # Display
 current_date = None
 current_county = None
 date_changed = True
-html = ''
 for row in df.rows(named=True):
     # If new date, display
     if row['DateFormatted'] != current_date:
-        html += f'<h2 class="date-header">{row["DateFormatted"].strftime("%A %d %m %Y")}</h2>\n'
+        if current_date != None:
+            html += '</div>\n</div>\n'
+        html += f'<div class="date-container">\n<h2 class="date-header">{row["DateFormatted"].strftime("%A %d %B %Y")}</h2>\n'
         current_date = row['DateFormatted']
         date_changed = True
+        current_county = None
     
     # If new county, display
-    if (row['County'] != current_county) or (date_changed):
-        html += f'<h3 class="county-header">{row["County"]}</h3>\n'
+    if (row['County'] != current_county):
+        if current_county != None:
+            html += '</div>'
+        html += f'<div class="county-container">\n<h3 class="county-header">{row["County"]}</h3>\n'
         current_county = row['County']
     
     html += f'<h4 class="location-header">{row["Location"]}</h4>\n'
     html += f'<p class="bird-sighting">{row["BirdText"]}</p>\n'
 
     date_changed = False
+html += '</div>\n</div>\n</div>\n</body>\n</html>'
 
 
 # Display as...
