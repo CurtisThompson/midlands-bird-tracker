@@ -77,3 +77,6 @@ df = df.with_columns(pl.when(pl.col('DateFormatted') > datetime.datetime.now())
                      .then(pl.col('DateFormatted').dt.offset_by('-1y'))
                      .otherwise(pl.col('DateFormatted'))
                      .alias('DateFormatted'))
+
+# Save processed sightings
+df.write_parquet('./data/bird_sightings.parquet')
