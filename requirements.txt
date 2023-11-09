@@ -1,8 +1,4 @@
 requests
-bs4
-os
+beautifulsoup4
 polars
-time
-random
-dateutil
-datetime
+python-dateutil
