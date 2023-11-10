@@ -2,7 +2,7 @@ name: build daily report
 
 on:
   schedule:
-    - cron: '05 12 * * *' # At 03:00 every day
+    - cron: '20 12 * * *' # At 03:00 every day
 
 jobs:
   build:
@@ -32,7 +32,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "Daily GitHub Action update" --allow-empty)
 
       - name: push changes # push changes to repo main branch
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
