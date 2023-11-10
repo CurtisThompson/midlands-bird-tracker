@@ -7,7 +7,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '30 14 * * *' # At 03:00 every day
+    - cron: '50 19 * * *' # At 03:00 every day
 
 jobs:
   build:
@@ -41,3 +41,29 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+      
+      - name: send mail
+        uses: dawidd6/action-send-mail@v3
+        with:
+          # Required mail server address if not connection_url:
+          server_address: smtp.gmail.com
+          # Server port, default 25:
+          server_port: 465
+          # Optional whether this connection use TLS (default is true if server_port is 465)
+          secure: true
+          # Optional (recommended) mail server username:
+          username: ${{secrets.EMAIL_CONNECTION_USERNAME}}
+          # Optional (recommended) mail server password:
+          password: ${{secrets.EMAIL_CONNECTION_PASSWORD}}
+          # Required mail subject:
+          subject: Daily Midlands Bird Sightings
+          # Required recipients' addresses:
+          to: ${{secrets.EMAIL_CONNECTION_RECIPIENT}}
+          # Required sender full name (address can be skipped):
+          from: Midlands Bird Tracker
+          # Optional plain body:
+          body: Build job of ${{github.repository}} completed successfully!
+          # Optional HTML body read from file:
+          html_body: file://reports/recent-report.html
+          # Optional converting Markdown to HTML (set content_type to text/html too):
+          convert_markdown: true
