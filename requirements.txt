@@ -3,3 +3,4 @@ beautifulsoup4
 polars
 python-dateutil
 geopy
+lxml
