@@ -12,8 +12,9 @@ def request_page_soup(url):
         # Map to BeautifulSoup
         soup = BeautifulSoup(page, features='lxml')
         return soup
-    except:
+    except Exception as e:
         print(f'Failed to get {url} page content')
+        print(e)
         return None
 
 

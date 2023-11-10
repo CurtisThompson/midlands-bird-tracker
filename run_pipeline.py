@@ -5,10 +5,10 @@ from src.report import build_html_report
 
 
 SAMPLE_CONFIG = {
-    'is_setup' : True,
+    'is_setup' : False,
     'is_extract' : True,
-    'is_transform' : True,
-    'is_report' : True
+    'is_transform' : False,
+    'is_report' : False
 }
 
 
