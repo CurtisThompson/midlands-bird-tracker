@@ -1,8 +1,13 @@
 name: build daily report
 
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
 on:
   schedule:
-    - cron: '20 12 * * *' # At 03:00 every day
+    - cron: '20 14 * * *' # At 03:00 every day
 
 jobs:
   build:
