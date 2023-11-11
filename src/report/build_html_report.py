@@ -61,10 +61,10 @@ def build_html_string(df, header=HTML_HEADER, footer=HTML_FOOTER):
     return html
 
 
-def run(sightings_file=SIGHTINGS_FILE, report_file=REPORT_FILE):
+def run(sightings_file=SIGHTINGS_FILE, report_file=REPORT_FILE, n_days=PREVIOUS_N_DAYS):
     """Load sightings parquet and build HTML report."""
     df = pl.read_parquet(sightings_file)
-    df = prepare_dataframe(df)
+    df = prepare_dataframe(df, n_days=n_days)
 
     html = build_html_string(df)
 

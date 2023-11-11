@@ -4,3 +4,4 @@ polars
 python-dateutil
 geopy
 lxml
+pyyaml

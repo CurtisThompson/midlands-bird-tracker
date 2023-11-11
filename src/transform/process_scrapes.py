@@ -87,10 +87,11 @@ def date_strings_to_datetime(df, col):
     return df
 
 
-def run():
+def run(input_paths=SCRAPED_FILES, output_path=OUTPUT_FILE,
+        coordinate_path=CACHED_COORDINATE_FILE, user_agent=COORDINATE_API_USER_AGENT):
     """Load scraped sightings, add info, and save as one parquet."""
     # Import all scraped sightings
-    dfs = [pl.read_parquet(f) for f in SCRAPED_FILES]
+    dfs = [pl.read_parquet(f) for f in input_paths]
     df = pl.concat(dfs, how='vertical_relaxed')
 
     # Get full location with county and country
@@ -99,13 +100,13 @@ def run():
     )
 
     # Find latitude and longitude of locations
-    df = add_location_coordinates_column(df, CACHED_COORDINATE_FILE)
+    df = add_location_coordinates_column(df, coordinate_path)
 
     # Format Date as a datetime
     df = date_strings_to_datetime(df, 'Date')
 
     # Save processed sightings
-    df.write_parquet(OUTPUT_FILE)
+    df.write_parquet(output_path)
 
 
 if __name__ == "__main__":

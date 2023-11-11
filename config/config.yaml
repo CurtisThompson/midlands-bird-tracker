@@ -1,0 +1,18 @@
+controls:
+  is_setup : True
+  is_extract : True
+  is_transform : True
+  is_report : True
+
+file_path:
+  scrape_path :
+    - './data/scrape_extracts/dos.parquet'
+    - './data/scrape_extracts/lros.parquet'
+    - './data/scrape_extracts/notts.parquet'
+  coordinates: './data/location_coordinates.parquet'
+  sightings: './data/bird_sightings.parquet'
+  report: './reports/recent-report.html'
+
+coordinate_user_agent : 'midlands-bird-tracker'
+
+report_previous_days : 5
