@@ -4,11 +4,19 @@ controls:
   is_transform : True
   is_report : True
 
+scrape:
+  Derbyshire:
+    url: 'https://www.derbyshireos.org.uk/news.php'
+    file_name: 'dos'
+  Leicestershire:
+    url: 'https://lros.org.uk/sightings-records/latest-bird-news/'
+    file_name: 'lros'
+  Nottinghamshire:
+    url: 'https://www.nottsbirders.net/latest_sightings.html'
+    file_name: 'notts'
+
 file_path:
-  scrape_path :
-    - './data/scrape_extracts/dos.parquet'
-    - './data/scrape_extracts/lros.parquet'
-    - './data/scrape_extracts/notts.parquet'
+  scrape_path: './data/scrape_extracts/'
   coordinates: './data/location_coordinates.parquet'
   sightings: './data/bird_sightings.parquet'
   report: './reports/recent-report.html'
