@@ -13,7 +13,7 @@ CONFIG = get_config()
 
 def run(config=CONFIG):
     if config['controls']['is_setup']:
-        setup_repo.run()
+        setup_repo.run(paths=config['file_path'].values())
     
     if config['controls']['is_extract']:
         pull_dos.run(county='Derbyshire',
