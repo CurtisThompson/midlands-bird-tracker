@@ -1,4 +1,5 @@
 import os
+import logging
 import requests
 from bs4 import BeautifulSoup
 import polars as pl
@@ -13,8 +14,8 @@ def request_page_soup(url):
         soup = BeautifulSoup(page, features='lxml')
         return soup
     except Exception as e:
-        print(f'Failed to get {url} page content')
-        print(e)
+        logging.debug(f'Failed to get {url} page content')
+        logging.debug(e)
         return None
 
 

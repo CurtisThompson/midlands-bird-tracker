@@ -20,6 +20,7 @@ file_path:
   coordinates: './data/location_coordinates.parquet'
   sightings: './data/bird_sightings.parquet'
   report: './reports/recent-report.html'
+  logging: './.log/'
 
 coordinate_user_agent : 'midlands-bird-tracker'
 

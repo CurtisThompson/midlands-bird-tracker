@@ -1,3 +1,5 @@
+import logging
+
 from src.utils.extract_utils import request_page_soup, save_sightings_list, clean_sighting_text, clean_location_text
 
 
@@ -33,7 +35,7 @@ def run(county=COUNTY, url=URL, file_name=PARQUET_NAME, file_directory=PARQUET_D
 
                 location_sightings.append([county, date, location, birdtext])
             except:
-                print(f'Tuple extraction failed for {str(li)}')
+                logging.debug(f'Tuple extraction failed for {str(li)}')
 
     # Convert to dataframe and store
     save_sightings_list(location_sightings, file_directory, file_name)
