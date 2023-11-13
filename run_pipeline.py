@@ -59,6 +59,7 @@ def run(config=CONFIG):
     if config['controls']['is_report']:
         build_html_report.run(sightings_file=config['file_path']['sightings'],
                               report_file=config['file_path']['report'],
+                              css_file=config['file_path']['css'],
                               n_days=config['report_previous_days'])
 
 

@@ -21,6 +21,7 @@ file_path:
   sightings: './data/bird_sightings.parquet'
   report: './reports/recent-report.html'
   logging: './.log/'
+  css: './reports/style.css'
 
 coordinate_user_agent : 'midlands-bird-tracker'
 

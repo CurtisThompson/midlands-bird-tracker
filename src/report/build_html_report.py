@@ -1,10 +1,13 @@
+import os
 import polars as pl
 from datetime import datetime, timedelta
+from premailer import Premailer
 
 
 PREVIOUS_N_DAYS = 5
 SIGHTINGS_FILE = './data/bird_sightings.parquet'
 REPORT_FILE = './reports/recent-report.html'
+CSS_FILE = './reports/style.css'
 
 HTML_HEADER = '''<html>
 <head>
@@ -61,12 +64,26 @@ def build_html_string(df, header=HTML_HEADER, footer=HTML_FOOTER):
     return html
 
 
-def run(sightings_file=SIGHTINGS_FILE, report_file=REPORT_FILE, n_days=PREVIOUS_N_DAYS):
+def inline_stylise(html, css):
+    """Move external styling into inline-styling for html string."""
+    css_dir = os.path.dirname(css)
+    css_file = os.path.basename(css)
+    premail_styler = Premailer(external_styles=css_file,
+                               base_path=css_dir,
+                               allow_loading_external_files=True)
+    html_transformed = premail_styler.transform(html)
+    return html_transformed
+
+
+def run(sightings_file=SIGHTINGS_FILE, report_file=REPORT_FILE,
+        css_file=CSS_FILE, n_days=PREVIOUS_N_DAYS):
     """Load sightings parquet and build HTML report."""
     df = pl.read_parquet(sightings_file)
     df = prepare_dataframe(df, n_days=n_days)
 
     html = build_html_string(df)
+
+    html = inline_stylise(html, css_file)
 
     with open(report_file, 'w+') as f:
         f.write(html)
