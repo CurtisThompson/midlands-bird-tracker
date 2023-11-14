@@ -25,4 +25,4 @@ file_path:
 
 coordinate_user_agent : 'midlands-bird-tracker'
 
-report_previous_days : 5
+report_previous_days : 4
