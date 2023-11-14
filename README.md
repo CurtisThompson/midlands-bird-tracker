@@ -36,4 +36,4 @@ Bird sightings are currently collected from the following sources:
  - [Leicestershire & Rutland Ornithological Society](https://lros.org.uk/)
  - [Nottinghamshire Birdwatchers](https://www.nottsbirders.net/index.html)
 
-Please create a pull request to include more sources form across the Midlands.
+Please create a pull request to include more sources from across the Midlands.
