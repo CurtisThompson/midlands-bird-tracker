@@ -1,0 +1,33 @@
+name: delete old logs
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+on:
+  schedule:
+    - cron: '30 18 16 * *' # At 18:30 on 16th of each month
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content
+
+      - name: delete logs
+        run: find ./log -name "*.txt" -type f -mtime +30 -delete
+      
+      - name: commit files # commit data files in git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Delete old logs" --allow-empty)
+
+      - name: push changes # push changes to repo main branch
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
