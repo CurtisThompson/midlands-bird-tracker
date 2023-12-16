@@ -7,7 +7,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '20 19 16 * *' # At 18:38 on 16th of each month
+    - cron: '00 10 1,16 * *' # At 10:00 on 1st and 16th of each month
 
 jobs:
   build:
