@@ -42,6 +42,9 @@ def clean_sighting_text(text):
 def save_sightings_list(sightings, directory, file_name):
     """Takes a list of (County, Date, Location, Sightings) and saves parquet."""
     df = pl.DataFrame(sightings, orient='row')
-    df.columns = ['County', 'Date', 'Location', 'BirdText']
-    path = os.path.join(directory, f'{file_name}.parquet')
-    df.write_parquet(path)
+    if not df.is_empty():
+        df.columns = ['County', 'Date', 'Location', 'BirdText']
+        path = os.path.join(directory, f'{file_name}.parquet')
+        df.write_parquet(path)
+    else:
+        logging.debug(f'Empty dataframe. No sightings saved to {os.path.join(directory, f"{file_name}.parquet")}')
