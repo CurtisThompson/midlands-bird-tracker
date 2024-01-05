@@ -1,0 +1,265 @@
+[2024-01-05 03:06:39] Logging initialised in ./.log/20240105_030639.txt
+[2024-01-05 03:06:39] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-01-05 03:06:39] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8489
+[2024-01-05 03:06:40] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-01-05 03:06:40] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-01-05 03:06:49] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2024-01-05 03:06:49] Tuple extraction failed for <p><strong>Waxwings</strong>: 26 South Wigston in Garden Street; 25 still Leicester at junction of Narborough Road/Cambridge Street; 1 Donisthorpe by the school on Ashby Road.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-11651 aligncenter size-full" decoding="async" height="795" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1060px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/01/velvetscoter_swr040123_arhodes.jpeg" srcset="https://lros.org.uk/wp-content/uploads/2024/01/velvetscoter_swr040123_arhodes.jpeg 1060w, https://lros.org.uk/wp-content/uploads/2024/01/velvetscoter_swr040123_arhodes-980x735.jpeg 980w, https://lros.org.uk/wp-content/uploads/2024/01/velvetscoter_swr040123_arhodes-480x360.jpeg 480w" width="1060"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Velvet Scoter, Swithland Res © Andrew Rhodes</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><strong>Waxwings</strong>: 11 South Wigston at Ervin’s Lock Road; 26 Leicester at junction of Narborough Road/Cambridge Street; 10 Aylestone on Atlee Way by the library.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Sapcote</em>: 3 <strong>Waxwings</strong> at junction of Grace Road/Underwood Crescent.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p>Also the <a href="https://lros.org.uk/news-events/for-sale-wanted" rel="noopener" target="_blank">For Sale page</a> has been updated with an Opticron MM4 GA ED compact spotting scope for sale.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Oakham</em>: 8 <strong>Waxwings</strong> briefly in Brooke Road.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p>Earl Shilton: 1 <strong>Waxwing</strong> at junction of Cedar Road &amp; Elmdale Road.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><strong>Waxwings</strong> today: 15+ in Iveshead Road, Shepshed; c12 briefly at junction of Braunston Road and Derwent Drive, Oakham; 3 at Asda on Ashby Road, Coalville.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Oakham</em>: 4 <strong>Waxwings</strong> briefly at junction of Welland Way and Chater Road.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 6 <strong>Cattle Egrets</strong> still from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Oakham</em>: 1 <strong>Waxwing</strong> briefly at the junction of Welland Way &amp; Balmoral Road.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Ibstock</em>: 2 <strong>Shags</strong> flew west over Leicester Road at 14:40.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 6 <strong>Cattle Egrets</strong> still from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Oakham</em>: 8 <strong>Waxwings</strong> in Uppingham Road this morning then flew off.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: now 6 <strong>Cattle Egrets</strong> from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Oakham</em>: 8 <strong>Waxwings</strong> briefly on Welland Way then flew north-west.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p>Anstey: 2 <strong>Cattle Egrets</strong> still from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 2 <strong>Cattle Egrets</strong> still from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 5 <strong>Cattle Egrets</strong> still from Packhorse Bridge, but no sign of any Waxwings today.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><strong>Waxwings today at:</strong></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Cosby</em> – 18 at Linley Green this afternoon then flew west.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 10 still at the junction of Link Road and Bradgate Road.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 11 <strong>Waxwings</strong> at junction of Link Road &amp; Bradgate Road, also 4+ <strong>Cattle Egrets</strong> still from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"><img alt="" decoding="async" height="700" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/12/waxwing_anstey141223_psmith.jpg" width="1000"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Waxwing, Anstey © Pete Smith</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"><img alt="" decoding="async" height="700" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/12/waxwing_anstey141223_cmh.jpg" width="1000"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Waxwing, Anstey © Chris Hubbard</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 5 <strong>Cattle Egrets</strong> again in field from Packhorse Bridge.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: no reports of Cattle Egrets today.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: 5 <strong>Cattle Egrets</strong> in field with sheep &amp; horses by the Rothley Brook c400m SW of the village, viewable from Packhorse Bridge just off Leicester Road. Flew off over Anstey Mill Farm towards Glenfield at 15:30.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Burbage</em>: 3 <strong>Waxwings</strong> on Sapcote Road this morning.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"><img alt="" decoding="async" height="700" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/12/velvetscoter_swr091223_rdd.jpg" width="1000"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"> Velvet Scoter, Swithland Res © Rhys Dandy</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Ibstock</em>: 2 <strong>Waxwings</strong> flew low south-west over the brickyard this morning.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"><img alt="" decoding="async" height="800" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/12/snowbunt_beaconhill011223_ajm.jpg" width="1200"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Snow Bunting, Beacon Hill © Andy Mackay</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Cosby</em>: <strong>Waxwing</strong> on Linley Green.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Anstey</em>: <strong>Waxwing</strong> briefly in Link Road at 10:40.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;"><img alt="" decoding="async" height="650" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/11/whoopers_str121123_cmh.jpg" width="1200"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Whooper Swans, Stanford Res © Chris Hubbard</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Syston</em>: 4 <strong>Cattle Egrets</strong> still in field opposite the Gate Hangs Well. Also 2 nearby at Cossington Mill early afternoon which were possibly different birds.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Syston</em>: 4 <strong>Cattle Egrets</strong> in field opposite the Gate Hangs Well pub.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Groby</em>: female-type <strong>Marsh Harrier</strong> flew east over Lawn Wood/back of Groby Pool at 11:30.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><img decoding="async" height="700" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/10/cattleegrets_ebr171023_progers.jpg" width="1000"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Cattle Egrets, Eyebrook Res © Phil Rogers</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p>An extraordinary record of <strong>3</strong> <span style="color: #0000ff;"><strong>Yellow-browed Warblers</strong> </span>trapped and ringed today at a private site in Rutland. This suggests that there are more out there waiting to be found, and maybe other Siberian species as well as they move across the country after arriving on the east coast over the weekend.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><em>Deans</em> Lane: <strong>Woodlark</strong> flew south at 09:25, also 1030 <strong>Redwings</strong> &amp; 9 <strong>Fieldfares</strong>.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><img alt="" decoding="async" height="850" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/10/ringouzel1_burrhill091023_ajm.jpg" width="1200"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><img alt="" decoding="async" height="850" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/10/ringouzel2_burrhill091023_ajm.jpg" width="1200"/></p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p style="text-align: center;">Ring Ouzel, Burrough Hill © Andy Mackay</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><strong>Redwings</strong> at several sites today including 15 at Burrough Hill.</p>
+[2024-01-05 03:06:49] Tuple extraction failed for <p><img decoding="async" height="800" loading="lazy" src="https://lros.org.uk/wp-content/uploads/2023/09/cattleegret_ebr210923_ajm.jpg" width="1000"/></p>
+[2024-01-05 03:06:49] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-01-05 03:06:50] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 5890
+[2024-01-05 03:06:50] Tuple extraction failed for <p><img src="archive_2023/ggs3.jpg"/>
+</p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p> Great Grey Shrike - Budby Common © Simon Roberts.
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><br/>
+</p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><span class="style19"><strong>Beeston</strong></span> - 3 <span class="style6">WAXWING</span> [Lidl, Wollaton Road, 13:35].  
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><span class="style19"><strong>Wilford</strong></span> - 8 <span class="style6">WAXWING</span> [in tree along the tram line between Ruddington Lane Station and Compton Acres 13:00].
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><span class="style19"><strong>Misson</strong></span> - 3 <span class="style6">Cattle Egret</span> [in cattle field north of Top Row/Eastwood Lane junc, 12:52]. 
+  
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 5 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [still on Smithy Marsh, 13:32]. 
+  
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><span class="style19"><strong>Wilford</strong></span> - 8 <span class="style6">WAXWING</span> [feeding on berries by STO Express 13:09 at least, Nottingham South and Wilford Industrial Estate NG11 7EP].
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><img src="archive_2023/wing1.jpg"/>
+</p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p> Waxwing - Wilford © Miles Cluff.
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><br/>
+</p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><span class="style19"><strong>Colwick</strong></span> - <span class="style6">WAXWING</span> [single along the Colwick Loop Road, this morning].    
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><img src="archive_2023/ed.jpg"/>
+</p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p> Waxwing - Edwalton © Alan Clewes.
+  </p>
+[2024-01-05 03:06:50] Tuple extraction failed for <p><br/>
+</p>
+[2024-01-05 03:06:50] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:50] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:50] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Mousley+Bottom+SJ%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:50] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:50] https://nominatim.openstreetmap.org:443 "GET /search?q=Mousley+Bottom+SJ%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:51] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:51] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:51] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Satnford+Res%2C+Leicestershire%2C+England&format=json&limit=1
+[2024-01-05 03:06:51] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:51] https://nominatim.openstreetmap.org:443 "GET /search?q=Satnford+Res%2C+Leicestershire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:52] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:52] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:52] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Waterswallows+Qy%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:52] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:52] https://nominatim.openstreetmap.org:443 "GET /search?q=Waterswallows+Qy%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:52] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:52] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:52] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Barrow+GP%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:52] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:53] https://nominatim.openstreetmap.org:443 "GET /search?q=Barrow+GP%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:53] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:53] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:53] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Bakewell+River+Wye%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:53] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:54] https://nominatim.openstreetmap.org:443 "GET /search?q=Bakewell+River+Wye%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:54] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:54] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:54] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Shipley+View+Lagoon%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:54] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:55] https://nominatim.openstreetmap.org:443 "GET /search?q=Shipley+View+Lagoon%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:55] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:55] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:55] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Whitwell+Quarry%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:55] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:55] https://nominatim.openstreetmap.org:443 "GET /search?q=Whitwell+Quarry%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:56] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:56] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:56] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eyerbook+Res%2C+Leicestershire%2C+England&format=json&limit=1
+[2024-01-05 03:06:56] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:56] https://nominatim.openstreetmap.org:443 "GET /search?q=Eyerbook+Res%2C+Leicestershire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:57] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:57] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:57] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Misson+Springs+%5BFinningley+GP%5D%2C+Nottinghamshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:57] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:57] https://nominatim.openstreetmap.org:443 "GET /search?q=Misson+Springs+%5BFinningley+GP%5D%2C+Nottinghamshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:58] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:58] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:58] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Matlock+Forest%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:58] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:59] https://nominatim.openstreetmap.org:443 "GET /search?q=Matlock+Forest%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:06:59] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:59] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:06:59] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Idle+Waslands%2C+Nottinghamshire%2C+England&format=json&limit=1
+[2024-01-05 03:06:59] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:06:59] https://nominatim.openstreetmap.org:443 "GET /search?q=Idle+Waslands%2C+Nottinghamshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:00] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:00] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:00] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Wingerworth+Lido%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:00] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:00] https://nominatim.openstreetmap.org:443 "GET /search?q=Wingerworth+Lido%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:01] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:01] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:01] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Allestree+Park%2FLake%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:01] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:01] https://nominatim.openstreetmap.org:443 "GET /search?q=Allestree+Park%2FLake%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:02] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:02] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:02] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Kelstedge%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:02] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:03] https://nominatim.openstreetmap.org:443 "GET /search?q=Kelstedge%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 457
+[2024-01-05 03:07:03] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:03] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:03] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Pride+Park+Derby%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:03] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:04] https://nominatim.openstreetmap.org:443 "GET /search?q=Pride+Park+Derby%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:04] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:04] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:04] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Scropton+%28SK193305%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:04] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:04] https://nominatim.openstreetmap.org:443 "GET /search?q=Scropton+%28SK193305%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:05] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:05] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:05] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Avenue+Washlands+NR%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:05] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:05] https://nominatim.openstreetmap.org:443 "GET /search?q=Avenue+Washlands+NR%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:06] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:06] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:06] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Misterton+Carr%2C+Nottinghamshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:06] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:06] https://nominatim.openstreetmap.org:443 "GET /search?q=Misterton+Carr%2C+Nottinghamshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:07] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:07] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:07] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Buxton+%28SK055731%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:07] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:07] https://nominatim.openstreetmap.org:443 "GET /search?q=Buxton+%28SK055731%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:07] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:07] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:07] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Dove+Holes+%28SK077772%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:07] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:07] https://nominatim.openstreetmap.org:443 "GET /search?q=Dove+Holes+%28SK077772%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:08] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:08] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:08] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Grangemill%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:08] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:08] https://nominatim.openstreetmap.org:443 "GET /search?q=Grangemill%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 487
+[2024-01-05 03:07:08] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:08] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:08] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Victory+Qy+%28SK076769%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:08] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:08] https://nominatim.openstreetmap.org:443 "GET /search?q=Victory+Qy+%28SK076769%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:09] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:09] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:09] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Foremark+Hall%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:09] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:09] https://nominatim.openstreetmap.org:443 "GET /search?q=Foremark+Hall%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:10] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:10] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:10] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Locko+Park%2FLake+%28SK397379%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:10] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:10] https://nominatim.openstreetmap.org:443 "GET /search?q=Locko+Park%2FLake+%28SK397379%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:11] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:11] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:11] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Victory+Qy%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:11] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:11] https://nominatim.openstreetmap.org:443 "GET /search?q=Victory+Qy%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:12] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:12] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:12] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Shipley%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:12] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:12] https://nominatim.openstreetmap.org:443 "GET /search?q=Shipley%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 459
+[2024-01-05 03:07:13] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:13] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:13] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Long+Eaton+GP+%28SK5033+%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:13] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:13] https://nominatim.openstreetmap.org:443 "GET /search?q=Long+Eaton+GP+%28SK5033+%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:13] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:13] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:13] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Upper+Hackney%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:13] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:14] https://nominatim.openstreetmap.org:443 "GET /search?q=Upper+Hackney%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:15] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:15] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:15] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Harworth+Pit+Tip%2C+Nottinghamshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:15] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:15] https://nominatim.openstreetmap.org:443 "GET /search?q=Harworth+Pit+Tip%2C+Nottinghamshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:15] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:15] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:15] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Buxton+%28SK061742%29%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:15] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:16] https://nominatim.openstreetmap.org:443 "GET /search?q=Buxton+%28SK061742%29%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:16] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:16] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:16] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Misson+to+Idlestop%2C+Nottinghamshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:16] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:17] https://nominatim.openstreetmap.org:443 "GET /search?q=Misson+to+Idlestop%2C+Nottinghamshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:17] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:17] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:17] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Idle+Stop%2C+Nottinghamshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:17] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:17] https://nominatim.openstreetmap.org:443 "GET /search?q=Idle+Stop%2C+Nottinghamshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:18] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:18] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:18] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Hardwick+Wood%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:18] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:18] https://nominatim.openstreetmap.org:443 "GET /search?q=Hardwick+Wood%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:18] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:18] Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+[2024-01-05 03:07:18] Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=High+Bridge+GP%2C+Derbyshire%2C+England&format=json&limit=1
+[2024-01-05 03:07:18] Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+[2024-01-05 03:07:19] https://nominatim.openstreetmap.org:443 "GET /search?q=High+Bridge+GP%2C+Derbyshire%2C+England&format=json&limit=1 HTTP/1.1" 200 2
+[2024-01-05 03:07:20] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-01-05 03:07:20] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
