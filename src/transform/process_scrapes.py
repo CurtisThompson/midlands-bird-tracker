@@ -77,6 +77,9 @@ def add_location_coordinates_column(df, cache_file=CACHED_COORDINATE_FILE):
 
 def date_strings_to_datetime(df, col):
     """Take a string-based date column and convert to datetime type."""
+    # First handle wrongly spelled "Febuary"
+    df = df.with_columns(pl.col(col).str.replace('Febuary', 'February'))
+    # Convert to datetime
     col_new = f'{str(col)}Formatted'
     df = df.with_columns(pl.col(col).apply(dateparser.parse).alias(col_new))
     # If in the future then the year needs moving back one
