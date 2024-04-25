@@ -31,7 +31,7 @@ def add_location_coordinates_column(df, cache_file=CACHED_COORDINATE_FILE):
     df_loc = df.unique('FullLocation').select('FullLocation')
 
     # Load existing locations
-    df_loc_existing = df._read_parquet(cache_file)
+    df_loc_existing = pl.read_parquet(cache_file)
 
     # Join coordinates to unique locations
     df_loc = df_loc.join(df_loc_existing, on='FullLocation', how='left').fill_null(0.0)
@@ -84,7 +84,7 @@ def date_strings_to_datetime(df, col):
     df = df.with_columns(pl.col(col).apply(dateparser.parse).alias(col_new))
     # If in the future then the year needs moving back one
     df = df.with_columns(pl.when(pl.col(col_new) > datetime.datetime.now())
-                        .then(pl.col(col_new).dt.offset_by('-1y'))
+                        .then(pl.col(col_new).dt.offset_by('-1y_saturating'))
                         .otherwise(pl.col(col_new))
                         .alias(col_new))
     return df
