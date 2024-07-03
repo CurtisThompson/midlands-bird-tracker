@@ -103,7 +103,7 @@ def run(input_paths=SCRAPED_FILES, output_path=OUTPUT_FILE,
     )
 
     # Find latitude and longitude of locations
-    df = add_location_coordinates_column(df, coordinate_path)
+    #df = add_location_coordinates_column(df, coordinate_path)
 
     # Format Date as a datetime
     df = date_strings_to_datetime(df, 'Date')
