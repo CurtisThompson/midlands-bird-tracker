@@ -4,6 +4,7 @@ from time import sleep
 from random import random
 import dateutil.parser as dateparser
 import datetime
+import logging
 
 
 COORDINATE_API_USER_AGENT = 'midlands-bird-tracker'
@@ -81,10 +82,14 @@ def date_strings_to_datetime(df, col):
     df = df.with_columns(pl.col(col).str.replace('Febuary', 'February'))
     # Convert to datetime
     col_new = f'{str(col)}Formatted'
-    df = df.with_columns(pl.col(col).apply(dateparser.parse).alias(col_new))
+    df = df.with_columns(
+        pl.col(col)
+        .map_elements(dateparser.parse, return_dtype=pl.Datetime)
+        .alias(col_new)
+    )
     # If in the future then the year needs moving back one
     df = df.with_columns(pl.when(pl.col(col_new) > datetime.datetime.now())
-                        .then(pl.col(col_new).dt.offset_by('-1y_saturating'))
+                        .then(pl.col(col_new).dt.offset_by('-1y'))
                         .otherwise(pl.col(col_new))
                         .alias(col_new))
     return df
