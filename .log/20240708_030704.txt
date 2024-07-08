@@ -1,0 +1,50 @@
+[2024-07-08 03:07:04] Logging initialised in ./.log/20240708_030704.txt
+[2024-07-08 03:07:04] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-07-08 03:07:05] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 8894
+[2024-07-08 03:07:06] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-07-08 03:07:06] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-07-08 03:07:07] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 200 None
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12209 alignnone size-full" decoding="async" height="628" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 840px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/06/rbshrike_bringhurst230624_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/06/rbshrike_bringhurst230624_cmh.jpg 840w, https://lros.org.uk/wp-content/uploads/2024/06/rbshrike_bringhurst230624_cmh-480x359.jpg 480w" width="840"/></p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;">Red-backed Shrike near Bringhurst © Chris Hubbard</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12195 alignnone size-full" decoding="async" height="662" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1001px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh.jpg 1001w, https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh-980x648.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh-480x317.jpg 480w" width="1001"/></p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;">Common Scoter, Stanford Res © Chris Hubbard</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12155 alignnone size-full" decoding="async" height="757" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/05/garganey_str300524_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/05/garganey_str300524_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/05/garganey_str300524_cmh-980x618.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/05/garganey_str300524_cmh-480x303.jpg 480w" width="1200"/></p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;">Garganey, Stanford Res © Chris Hubbard</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p>No reports of Savi’s Warbler at Rutland Water since Tuesday.</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p>Rutland Water: <span style="color: #ff0000;"><strong>Savi’s Warbler</strong> </span>still singing from Bittern hide, Lagoon 3; <strong>Little Tern</strong> &amp; 3 <strong>Black Terns</strong>,South Arm 3;  3 <strong>Grey Plovers</strong>, <strong>Turnstone</strong> &amp; <strong>Little Gull</strong>, Lagoon 4.</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12091 alignnone size-full" decoding="async" height="800" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1000px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/05/savis_rw080524_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/05/savis_rw080524_cmh.jpg 1000w, https://lros.org.uk/wp-content/uploads/2024/05/savis_rw080524_cmh-980x784.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/05/savis_rw080524_cmh-480x384.jpg 480w" width="1000"/></p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;">Savi’s Warbler, Rutland Water © Chris Hubbard</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><em>Quorn</em>: 3 <span style="color: #0000ff;"><strong>Cranes</strong> </span>flew north this evening.</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p>Rutland Water: <span style="color: #ff0000;"><strong>Savi’s Warbler</strong> </span>singing in the Lagoon 3 reedbed and occasionally showing from Bittern hide. It should go without saying not to even think about using playback on this or any other Schedule 1 species in order to try and see it. Also <strong>White-fronted Goose</strong> and <strong>Pink-footed Goose</strong>, Lagoon 1, 2 <strong>Dunlin</strong>, Lagoon 4 and 2+ <strong>Cuckoos</strong> around the reserve.</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12080 alignnone size-full" decoding="async" height="505" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 746px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/05/arctictern_str030524_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/05/arctictern_str030524_cmh.jpg 746w, https://lros.org.uk/wp-content/uploads/2024/05/arctictern_str030524_cmh-480x325.jpg 480w" width="746"/></p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p style="text-align: center;">Arctic Tern, Stanford Res © Chris Hubbard</p>
+[2024-07-08 03:07:07] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-07-08 03:07:07] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 5768
+[2024-07-08 03:07:07] Tuple extraction failed for <p><img src="archive-2024/bwp6.jpg"/><img src="archive-2024/bwp7.jpg"/><img src="archive-2024/bwp5.jpg"/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Mike Vickers.
+  </p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><img src="archive-2024/bwp8.jpg"/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Ian Cowgill.
+  </p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><img src="archive-2024/ws2.jpg"/><img src="archive-2024/ws1.jpg"/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p> White Stork - Lound © Mike Vickers.
+  </p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><span class="style19"><strong>Bingham</strong></span> - Ring-necked Parakeet [near the Market Square, midday].  
+ </p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><img src="archive-2024/cs.jpg"/>
+</p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p> Common Scoter - Attenborough Nature Reserve © Simon Roberts.
+  </p>
+[2024-07-08 03:07:07] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-08 03:07:07] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-07-08 03:07:07] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
