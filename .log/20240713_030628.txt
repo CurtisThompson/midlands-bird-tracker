@@ -1,0 +1,59 @@
+[2024-07-13 03:06:28] Logging initialised in ./.log/20240713_030628.txt
+[2024-07-13 03:06:28] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-07-13 03:06:28] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 9572
+[2024-07-13 03:06:29] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-07-13 03:06:29] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-07-13 03:06:35] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 200 None
+[2024-07-13 03:06:35] Tuple extraction failed for <p>Also an Optolyth TBG80 scope, tripod, monopod and hide clamp added to the <a href="https://lros.org.uk/news-events/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2024-07-13 03:06:35] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12209 alignnone size-full" decoding="async" height="628" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 840px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/06/rbshrike_bringhurst230624_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/06/rbshrike_bringhurst230624_cmh.jpg 840w, https://lros.org.uk/wp-content/uploads/2024/06/rbshrike_bringhurst230624_cmh-480x359.jpg 480w" width="840"/></p>
+[2024-07-13 03:06:35] Tuple extraction failed for <p style="text-align: center;">Red-backed Shrike near Bringhurst © Chris Hubbard</p>
+[2024-07-13 03:06:35] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12195 alignnone size-full" decoding="async" height="662" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1001px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh.jpg 1001w, https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh-980x648.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/06/comscoter_str030624_cmh-480x317.jpg 480w" width="1001"/></p>
+[2024-07-13 03:06:35] Tuple extraction failed for <p style="text-align: center;">Common Scoter, Stanford Res © Chris Hubbard</p>
+[2024-07-13 03:06:35] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-07-13 03:06:36] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 6961
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/cole1.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © David Carr.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/cole.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Martin Loftus.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/cat3.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> Cattle Egret (Juvenile) - Holme Pierrepont © Alan Clewes.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/bwp6.jpg"/><img src="archive-2024/bwp7.jpg"/><img src="archive-2024/bwp5.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Mike Vickers.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/bwp8.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Ian Cowgill.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/ws2.jpg"/><img src="archive-2024/ws1.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> White Stork - Lound © Mike Vickers.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><span class="style19"><strong>Bingham</strong></span> - Ring-necked Parakeet [near the Market Square, midday].  
+ </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><img src="archive-2024/cs.jpg"/>
+</p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p> Common Scoter - Attenborough Nature Reserve © Simon Roberts.
+  </p>
+[2024-07-13 03:06:36] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-13 03:06:36] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-07-13 03:06:36] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
