@@ -1,0 +1,56 @@
+[2024-07-15 03:07:59] Logging initialised in ./.log/20240715_030759.txt
+[2024-07-15 03:07:59] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-07-15 03:08:00] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 9892
+[2024-07-15 03:08:01] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-07-15 03:08:01] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-07-15 03:08:02] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 403 93
+[2024-07-15 03:08:02] Encoding detection: ascii is most likely the one.
+[2024-07-15 03:08:02] Empty dataframe. No sightings saved to ./data/scrape_extracts/lros.parquet
+[2024-07-15 03:08:02] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-07-15 03:08:02] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 7300
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/cole1.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © David Carr.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/cole.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Martin Loftus.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/cat3.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> Cattle Egret (Juvenile) - Holme Pierrepont © Alan Clewes.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/bwp6.jpg"/><img src="archive-2024/bwp7.jpg"/><img src="archive-2024/bwp5.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Mike Vickers.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/bwp8.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> Black-winged Pratincole - Misson Springs [Finningley GP] © Ian Cowgill.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/ws2.jpg"/><img src="archive-2024/ws1.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> White Stork - Lound © Mike Vickers.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><span class="style19"><strong>Bingham</strong></span> - Ring-necked Parakeet [near the Market Square, midday].  
+ </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><img src="archive-2024/cs.jpg"/>
+</p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p> Common Scoter - Attenborough Nature Reserve © Simon Roberts.
+  </p>
+[2024-07-15 03:08:02] Tuple extraction failed for <p><br/>
+</p>
+[2024-07-15 03:08:02] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-07-15 03:08:02] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
