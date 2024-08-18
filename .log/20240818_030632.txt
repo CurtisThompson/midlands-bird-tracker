@@ -1,0 +1,36 @@
+[2024-08-18 03:06:32] Logging initialised in ./.log/20240818_030632.txt
+[2024-08-18 03:06:32] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-08-18 03:06:33] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 9960
+[2024-08-18 03:06:34] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-08-18 03:06:34] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-08-18 03:06:41] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 200 None
+[2024-08-18 03:06:41] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12323 alignnone size-large" decoding="async" height="512" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/07/roseate_ebr280724_cmh-1024x512.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/07/roseate_ebr280724_cmh-980x490.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/07/roseate_ebr280724_cmh-480x240.jpg 480w" width="1024"/></p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p style="text-align: center;">Roseate Tern, Eyebrook Res © Chris Hubbard</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p>Also an Optolyth TBG80 scope, tripod, monopod and hide clamp added to the <a href="https://lros.org.uk/news-events/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2024-08-18 03:06:41] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-08-18 03:06:41] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 7240
+[2024-08-18 03:06:41] Tuple extraction failed for <p><img src="archive-2024/at.jpg"/>
+</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p> Arctic Tern - Attenborough Nature Reserve © Simon Roberts.
+  </p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><br/>
+</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><img src="archive-2024/lg8.jpg"/><img src="archive-2024/lg9.jpg"/>
+</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p> Little Gulls - Holme Pierrepont © Alan Clewes.
+  </p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><br/>
+</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><img src="archive-2024/sabs.jpg"/><img src="archive-2024/sabs2.jpg"/><img src="archive-2024/sabs3.jpg"/><img src="archive-2024/sabs4.jpg"/>
+</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p> Sabine's Gull - Attenborough Nature Reserve © Simon Roberts.
+  </p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><br/>
+</p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><span class="style19"><strong>Grove</strong></span> - <span class="style6">Merlin</span> [female/imm, near Grove].
+ 
+ </p>
+[2024-08-18 03:06:41] Tuple extraction failed for <p><span class="style19"><strong>Newark</strong></span> <span class="style19"><strong>on Trent</strong></span> - 3 <span class="style6">Common Sandpiper</span>, 3 <span class="style6">Green Sandpiper</span> [Sugar factory ponds]. 
+ </p>
+[2024-08-18 03:06:42] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-08-18 03:06:42] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
