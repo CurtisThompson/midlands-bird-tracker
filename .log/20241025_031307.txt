@@ -1,0 +1,68 @@
+[2024-10-25 03:13:07] Logging initialised in ./.log/20241025_031307.txt
+[2024-10-25 03:13:07] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-10-25 03:13:08] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 10554
+[2024-10-25 03:13:09] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 32 alternatives.
+[2024-10-25 03:13:09] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-10-25 03:13:19] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 200 None
+[2024-10-25 03:13:19] Tuple extraction failed for <p><em>Ketton</em>: <strong>Black Redstart</strong> in Timbergate Road this afternoon.</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><em>Ibstock</em>: <span style="color: #0000ff;"><strong>Yellow-browed Warbler</strong> </span>in wooded area north of the lake on the east side of Ibstock Brick, from public footpath south of Leicester Road.</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p>Also the 7th <span style="color: #0000ff;"><strong>Yellow-browed Warbler</strong> </span>of the autumn trapped and ringed at a private site in Rutland.</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12644 alignnone size-full" decoding="async" height="816" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh-980x666.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh-480x326.jpg 480w" width="1200"/></p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;">Whooper Swans, Stanford Res © Chris Hubbard</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12622 aligncenter size-full" decoding="async" height="900" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm-980x735.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm-480x360.jpg 480w" width="1200"/></p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;">Long-billed Dowitcher, Eyebrook Res © Andy Mackay</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><em>Sapcote</em>: juv <strong>Gannet</strong> taken into care this morning.</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12580 aligncenter size-full" decoding="async" height="726" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1103px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/09/rbmerg_rw300924_dcopley.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/09/rbmerg_rw300924_dcopley.jpg 1103w, https://lros.org.uk/wp-content/uploads/2024/09/rbmerg_rw300924_dcopley-980x645.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/09/rbmerg_rw300924_dcopley-480x316.jpg 480w" width="1103"/></p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;">Red-breasted Merganser, Rutland Water © Dave Copley</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12548 alignnone size-full" decoding="async" height="800" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/09/sabsgull_ebr220924_aht.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/09/sabsgull_ebr220924_aht.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/09/sabsgull_ebr220924_aht-980x653.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/09/sabsgull_ebr220924_aht-480x320.jpg 480w" width="1200"/></p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;">Juvenile Sabine’s Gull, Eyebrook Res © Tony Taylor</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12460 aligncenter size-full" decoding="async" height="900" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/09/stern2_str060924_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/09/stern2_str060924_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/09/stern2_str060924_cmh-980x735.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/09/stern2_str060924_cmh-480x360.jpg 480w" width="1200"/></p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12459 alignnone size-full" decoding="async" height="900" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/09/stern1_str060924_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/09/stern1_str060924_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/09/stern1_str060924_cmh-980x735.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/09/stern1_str060924_cmh-480x360.jpg 480w" width="1200"/></p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p style="text-align: center;">Sandwich Tern, Stanford Res © Chris Hubbard</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p>Stanford Res: no sign of the Ferruginous Duck today.</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p> </p>
+[2024-10-25 03:13:19] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-10-25 03:13:19] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 9427
+[2024-10-25 03:13:19] Tuple extraction failed for <p><span class="style19"><strong>Lowdham</strong></span> - <span class="style6">Red Kite</span> [just east of Lowdham, 11:15].
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><span class="style19"><strong>Lowdham</strong></span> - <span class="style6">Raven</span> [over the northern section of Ploughman Wood, 12:00].  
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><span class="style19"><strong>Rampton</strong></span> - 2 <span class="style6">COMMON CRANE</span> [over south-east towards the river Trent, late morning].
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><img src="archive-2024/ggs6.jpg"/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p> Great Grey Shrike - Barton in Fabis  © Simon Roberts. 
+ </p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><br/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><img src="archive-2024/ggs7.jpg"/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p>   © Kev Hawksridge. 
+ </p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><br/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><img src="archive-2024/ggs8.jpg"/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p>   © Richard Smyth. 
+ 
+ </p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><br/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><img src="archive-2024/ggs9.jpg"/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p>   © Mile Cluff. 
+ </p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><br/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - 500+<span class="style6">Pink-footed Geese</span> [over Scrooby Top towards Lound, 09:46].  
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><span class="style19"><strong>Colwick</strong></span> - 4 Ring-necked Parakeet [flew south-east over garden this morning].  
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><img src="archive-2024/snow.jpg"/>
+</p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p> Snow Bunting - Silverdale  © Steve James. 
+ </p>
+[2024-10-25 03:13:19] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - <span class="style6">Cattle Egret</span> [on flooded field off Mill Lane, this afternoon]. 
+</p>
+[2024-10-25 03:13:20] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-10-25 03:13:20] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
