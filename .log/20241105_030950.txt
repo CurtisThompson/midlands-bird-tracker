@@ -1,0 +1,33 @@
+[2024-11-05 03:09:50] Logging initialised in ./.log/20241105_030950.txt
+[2024-11-05 03:09:50] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-11-05 03:09:51] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 7267
+[2024-11-05 03:09:53] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-11-05 03:09:53] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-11-05 03:10:00] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 200 None
+[2024-11-05 03:10:00] Tuple extraction failed for <p><strong>Hawfinches</strong> today at: Grimston, one south-west at 08:09; Warren Hills, one south-east at 09:04; Bradgate Park, 6 south at 09:50; Shenton, one still along the old railway line.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p><strong>Hawfinches</strong> today at: Groby, 2+ sound-recorded flying over early morning; Charnwood Lodge, one south-east at 08:35; Aylestone Meadows, one south-east with Redwings at 08:39; Mountsorrel, 2 south this morning; Exton Park, one; Sawley Bridge Marina, 2 flew over; Warren Lane GP, 2 over at 10:37.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p><em>Shenton</em>: <strong>Hawfinch</strong> with Redwings along the old railway line at Shenton Cutting; nearby <strong>Brambling</strong> flew over Ambion Hill.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p><em>Quorn</em>: <span style="color: #0000ff;"><strong>Yellow-browed Warbler</strong> </span>called twice, then seen briefly in flight, Chaveney Road/Wyvernhoe Drive this afternoon.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p><em>Ketton</em>: <strong>Black Redstart</strong> in Timbergate Road this afternoon.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p><em>Ibstock</em>: <span style="color: #0000ff;"><strong>Yellow-browed Warbler</strong> </span>in wooded area north of the lake on the east side of Ibstock Brick, from public footpath south of Leicester Road.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p>Also the 7th <span style="color: #0000ff;"><strong>Yellow-browed Warbler</strong> </span>of the autumn trapped and ringed at a private site in Rutland.</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12644 alignnone size-full" decoding="async" height="816" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh-980x666.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/10/whoopers_str131024_cmh-480x326.jpg 480w" width="1200"/></p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p style="text-align: center;">Whooper Swans, Stanford Res © Chris Hubbard</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-12622 aligncenter size-full" decoding="async" height="900" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm.jpg 1200w, https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm-980x735.jpg 980w, https://lros.org.uk/wp-content/uploads/2024/10/lbdowitcher_ebr061024_ajm-480x360.jpg 480w" width="1200"/></p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p style="text-align: center;">Long-billed Dowitcher, Eyebrook Res © Andy Mackay</p>
+[2024-11-05 03:10:00] Tuple extraction failed for <p><em>Sapcote</em>: juv <strong>Gannet</strong> taken into care this morning.</p>
+[2024-11-05 03:10:00] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-11-05 03:10:01] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 5159
+[2024-11-05 03:10:01] Tuple extraction failed for <p><img src="archive-2024/btd4.jpg"/><img src="archive-2024/btd5.jpg"/><img src="archive-2024/btd6.jpg"/>
+</p>
+[2024-11-05 03:10:01] Tuple extraction failed for <p> Black-throated Diver - Collingham Pits  © Nick Crouch. 
+ </p>
+[2024-11-05 03:10:01] Tuple extraction failed for <p><br/>
+</p>
+[2024-11-05 03:10:01] Tuple extraction failed for <p><span class="style19"><strong>Arnold </strong></span>- <span class="style6">Woodcock</span> [house flyover NG5 6PQ, this afternoon]. 
+
+</p>
+[2024-11-05 03:10:01] Tuple extraction failed for <p><span class="style19"><strong>Averham</strong></span> - <span class="style6">Green Sandpiper</span>, 4 Little Egret [pool in field].
+</p>
+[2024-11-05 03:10:01] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-11-05 03:10:01] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
