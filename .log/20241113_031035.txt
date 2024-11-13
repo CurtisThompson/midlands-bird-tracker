@@ -1,0 +1,48 @@
+[2024-11-13 03:10:35] Logging initialised in ./.log/20241113_031035.txt
+[2024-11-13 03:10:35] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2024-11-13 03:10:36] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/11" 200 9033
+[2024-11-13 03:10:37] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2024-11-13 03:10:37] Starting new HTTPS connection (1): lros.org.uk:443
+[2024-11-13 03:10:38] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/11" 403 93
+[2024-11-13 03:10:38] Encoding detection: ascii is most likely the one.
+[2024-11-13 03:10:38] Empty dataframe. No sightings saved to ./data/scrape_extracts/lros.parquet
+[2024-11-13 03:10:38] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2024-11-13 03:10:39] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/11" 200 7526
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Bingham</strong></span> - c.200 
+  <span class="style6">Pink-footed Geese</span> [heading east, 14:35].
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Serlby</strong></span> - 2 <span class="style6">Hawfinch</span> [in trees by Golf Club entrance, 15:30]. 
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Bingham</strong></span> - 300 <span class="style6">Pink-footed Geese</span> [east/south/east, 11:45], <span class="style6">Stonechat</span> [Archer Lake]. 
+
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><img src="archive-2024/knot1.jpg"/>
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p> Knot - King's Mill Reservoir  © Robin Brace. 
+ </p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><br/>
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Arnold</strong></span> - <span class="style6">Woodcock</span> [flushed from under mature Hawthorn hedge in garden, this afternoon].  
+
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Skegby</strong></span> - 2 <span class="style6">Raven</span> [flew east calling, 07:35].  
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><img src="archive-2024/knot.jpg"/>
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p> Knot - Attenborough Nature Reserve  © Simon Roberts. 
+ </p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><br/>
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><img src="archive-2024/btd4.jpg"/><img src="archive-2024/btd5.jpg"/><img src="archive-2024/btd6.jpg"/>
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p> Black-throated Diver - Collingham Pits  © Nick Crouch. 
+ </p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><br/>
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Arnold </strong></span>- <span class="style6">Woodcock</span> [house flyover NG5 6PQ, this afternoon]. 
+
+</p>
+[2024-11-13 03:10:39] Tuple extraction failed for <p><span class="style19"><strong>Averham</strong></span> - <span class="style6">Green Sandpiper</span>, 4 Little Egret [pool in field].
+</p>
+[2024-11-13 03:10:39] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2024-11-13 03:10:39] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
