@@ -1,0 +1,49 @@
+[2025-01-10 03:12:56] Logging initialised in ./.log/20250110_031256.txt
+[2025-01-10 03:12:56] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-01-10 03:12:57] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8038
+[2025-01-10 03:12:58] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2025-01-10 03:12:58] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-01-10 03:13:04] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-01-10 03:13:04] Tuple extraction failed for <p>Rutland Water: <strong>Red-necked Grebe</strong> now between the dam and Normanton Church; <strong>Slav Grebe</strong> still, North Arm; possibly 3 different <strong>Great Northern Divers</strong> (dam, North Arm &amp; South Arm 3, but they do move around a lot, especially between the dam and North Arm); 3+ <strong>Scaup</strong> still, Dickinson’s Bay.</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p>Also late news for Monday – a <span style="color: #0000ff;"><strong>Little Auk</strong> </span>seen being eaten by a Peregrine on the Leicester Cathedral webcam.</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p>Rutland Water: <span style="color: #0000ff;"><strong>Little Auk</strong></span>, Main Water early morning, then flew towards Normanton Church but no further sign; drake <strong>Red-breasted Merganser</strong> end of Hambleton Peninsula then flew towards the South Arm; <strong>Red-necked Grebe</strong> still at Sykes Lane end of the dam; <strong>Slav Grebe</strong> still, North Arm; drake <strong>Smew</strong>, Lagoon 3; <strong>Great Northern Divers</strong> off Normanton Church &amp; South Arm 3; 3+ <strong>Scaup</strong>, Dickinson’s Bay.</p>
+[2025-01-10 03:13:04] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-01-10 03:13:04] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 7484
+[2025-01-10 03:13:04] Tuple extraction failed for <p><span class="style19"><strong>Retford</strong></span> - Kingfisher [Chesterfield Canal, behind the Hospice, this afternoon].  
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p><span class="style19"><strong>Welbeck</strong></span> - 2 <span class="style6">Great White Egret</span> [Upper Welbeck lake].  
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p> Hawfinch - Clumber Park © 
+Andy Hall.
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p><br/>
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p> Green-winged Teal - Langford Lowfields © 
+James Wilkinson.
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p><br/>
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p><span class="style19"><strong>Oxton</strong></span> - <span class="style6">Red Kite</span> [drifting south, mid-afternoon].  
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p> Black-throated Diver - South Muskham © 
+Steve Robins.
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p><br/>
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p>
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p class="style19">A  total of 119 species were recorded in the county on todays Bird Race between Nottinghamshire, Derbyshire and Leicestershire.
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p class="style19">Final tally was Nott's 119, Leic's 114 and Derby's 113. <br/>
+<br/>
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p class="style19">
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p class="style19">Bird Race species list for Nott's below. 
+<br/>
+<br/>
+</p>
+[2025-01-10 03:13:04] Tuple extraction failed for <p class="style19">
+</p>
+[2025-01-10 03:13:04] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-01-10 03:13:04] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
