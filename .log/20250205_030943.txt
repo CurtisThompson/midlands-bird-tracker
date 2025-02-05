@@ -1,0 +1,102 @@
+[2025-02-05 03:09:43] Logging initialised in ./.log/20250205_030943.txt
+[2025-02-05 03:09:43] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-02-05 03:09:44] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 7250
+[2025-02-05 03:09:45] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2025-02-05 03:09:45] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-02-05 03:09:53] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-02-05 03:09:53] Tuple extraction failed for <p>Nothing new in the last 10 days – up to 5 <strong>Smew</strong> &amp; 1st-winter drake <strong>Scaup</strong> still at Eyebrook Res; <strong>Slav Grebe</strong>, at least one <strong>Great Northern Diver</strong> &amp; 1 female <strong>Scaup</strong> still at Rutland Water.</p>
+[2025-02-05 03:09:53] Tuple extraction failed for <p>Rutland Water: <strong>Red-necked Grebe</strong> now between the dam and Normanton Church; <strong>Slav Grebe</strong> still, North Arm; possibly 3 different <strong>Great Northern Divers</strong> (dam, North Arm &amp; South Arm 3, but they do move around a lot, especially between the dam and North Arm); 3+ <strong>Scaup</strong> still, Dickinson’s Bay.</p>
+[2025-02-05 03:09:53] Tuple extraction failed for <p>Also late news for Monday – a <span style="color: #0000ff;"><strong>Little Auk</strong> </span>seen being eaten by a Peregrine on the Leicester Cathedral webcam.</p>
+[2025-02-05 03:09:53] Tuple extraction failed for <p>Rutland Water: <span style="color: #0000ff;"><strong>Little Auk</strong></span>, Main Water early morning, then flew towards Normanton Church but no further sign; drake <strong>Red-breasted Merganser</strong> end of Hambleton Peninsula then flew towards the South Arm; <strong>Red-necked Grebe</strong> still at Sykes Lane end of the dam; <strong>Slav Grebe</strong> still, North Arm; drake <strong>Smew</strong>, Lagoon 3; <strong>Great Northern Divers</strong> off Normanton Church &amp; South Arm 3; 3+ <strong>Scaup</strong>, Dickinson’s Bay.</p>
+[2025-02-05 03:09:53] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-02-05 03:09:53] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 14054
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 
+5 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [Trentside fields c.1000m north of Sailing Lake, this morning], 2 <span class="style6">Pintail</span>, <span class="style6">Marsh Harrier</span> [Spalford Pit].
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p>Wollaton - Water Rail [Martin's Pond, mid-morning].  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Eakring</strong></span> - 4 <span class="style6">Brambling</span> [set-aside east of Eakring Flash], c.45 Snipe, <span class="style6">Peregrine</span> [Penny Pasture]. 
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Beeston</strong></span> - <span class="style6">WHEATEAR  </span> <span class="style6">sp</span> [female type briefly in garden Elswick Drive late morning, but no further sign in the general area by mid-afternoon]. 
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p> Scaup - Attenborough Nature Reserve © 
+Andy Hall.
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style120">Lenton</span> - 2 Ring-necked Parakeet [in flight over University Park Lake]. 
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Norton</strong></span> - <span class="style6">Great White Egret</span> [River Poulter, 09:00].  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Whatton</strong></span> - <span class="style5"><strong>Hoopoe</strong></span> [at the south end of Manor Lane, this morning].
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Welbeck</strong></span> - <span class="style6">Caspian Gull</span> [adult, feeding on carcassUpper Welbeck Lake, 10:00], <span class="style6">Great White Egret</span>  [River Poulter].
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p> Herring Gull - Netherfield Lagoons © 
+Simon Roberts.
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><br/>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Eakring</strong></span> - 4 <span class="style6">Brambling</span>, Leucistic Chaffinch, 120 Fieldfare, 150 Linnet [all field adjacent to Eakring Flash]. 
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - <span class="style6">Cattle Egret</span>, <span class="style6">Great White Egret</span>, Little Egret [along old riverbed on Mill Lane, this morning]. 
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Beeston</strong></span> - c.300 <span class="style6">Pink-footed Geese</span> [south-west over Beeston Marina, 10:24].
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Clifton</strong></span> -  
+c.300 <span class="style6">Pink-footed Geese</span> [heading 
+south-west, 10:20].
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Clifton</strong></span> - c.300 <span class="style6">Pink-footed Geese</span> [heading west, late morning]. 
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Gedling</strong></span> - <span class="style6">Blackcap</span> [female, in private garden]. 
+
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Worksop</strong></span> - <span class="style6">Great White Egret</span>, <strong>Mandarin</strong> [on the River Ryton in the Canch].  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Retford</strong></span> - Kingfisher [Chesterfield Canal, behind the Hospice, this afternoon].  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Welbeck</strong></span> - 2 <span class="style6">Great White Egret</span> [Upper Welbeck lake].  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p> Marsh Harrier - Holme Pierrepont © 
+Alan Clewes.
+  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p> Hawfinch - Clumber Park © 
+Andy Hall.
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><br/>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p> Green-winged Teal - Langford Lowfields © 
+James Wilkinson.
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><br/>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><span class="style19"><strong>Oxton</strong></span> - <span class="style6">Red Kite</span> [drifting south, mid-afternoon].  
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p> Black-throated Diver - South Muskham © 
+Steve Robins.
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p><br/>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p class="style19">A  total of 119 species were recorded in the county on todays Bird Race between Nottinghamshire, Derbyshire and Leicestershire.
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p class="style19">Final tally was Nott's 119, Leic's 114 and Derby's 113. <br/>
+<br/>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p class="style19">
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p class="style19">Bird Race species list for Nott's below. 
+<br/>
+<br/>
+</p>
+[2025-02-05 03:09:54] Tuple extraction failed for <p class="style19">
+</p>
+[2025-02-05 03:09:54] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-02-05 03:09:54] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
