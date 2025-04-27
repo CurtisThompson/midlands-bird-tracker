@@ -1,0 +1,103 @@
+[2025-04-27 03:22:57] Logging initialised in ./.log/20250427_032257.txt
+[2025-04-27 03:22:57] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-04-27 03:22:58] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 11155
+[2025-04-27 03:23:00] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2025-04-27 03:23:00] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-04-27 03:23:01] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-04-27 03:23:01] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-16533 alignnone size-full" decoding="async" height="400" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/04/arcterns_str230425_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/04/arcterns_str230425_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2025/04/arcterns_str230425_cmh-980x327.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/04/arcterns_str230425_cmh-480x160.jpg 480w" width="1200"/></p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p style="text-align: center;">Arctic Terns, Stanford Res © Chris Hubbard</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p><strong>Garden Warblers</strong> singing at Groby Pool and Cossington Meadows.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p><strong>Grasshopper Wablers</strong> singing at Dishley Pool and Cossington Meadows.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p><strong>Reed Warblers</strong> singing at several sites now.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p>Also a <strong>White Stork</strong> in Coalville today, known to have escaped from a zoo in the West Midlands – this is presumably the same bird that was reported over the A42 yesterday.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p>Single <strong>Little Gulls</strong> today at: Lagoon 1, Rutland Water, Eyebrook Res and Saddington Res.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p>Big movement of <strong>Little Gulls</strong> today: Stanford Res, 34; Eyebrook Res, 16; Rutland Water: 3 in the North Arm at least (surely there were more than this?); Thornton Res, 2; Cossington Meadows, 2 on Lower Moor Pool; Cropston Res, 2. Most were adults.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p>Also:</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-16247 aligncenter size-full" decoding="async" height="1036" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/04/littlegull_cossmeadows040425_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/04/littlegull_cossmeadows040425_ajm.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/04/littlegull_cossmeadows040425_ajm-1280x884.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/04/littlegull_cossmeadows040425_ajm-980x677.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/04/littlegull_cossmeadows040425_ajm-480x332.jpg 480w" width="1500"/></p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p style="text-align: center;">Adult Little Gull, Cossington Meadows © Andy Mackay</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p> </p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-16147 aligncenter size-full" decoding="async" height="796" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1143px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/03/amwigeon_rw060325_mbetts.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/03/amwigeon_rw060325_mbetts.jpg 1143w, https://lros.org.uk/wp-content/uploads/2025/03/amwigeon_rw060325_mbetts-980x682.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/03/amwigeon_rw060325_mbetts-480x334.jpg 480w" width="1143"/></p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p style="text-align: center;">Hybrid wigeon, Rutland Water © Michael Betts</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p><em>Cotes</em>: 4 <strong>Cattle Egrets</strong> still in field with cattle on the A60 between Cotes and Loughborough.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p><em>Cotes</em>: 4 <strong>Cattle Egrets</strong> in field with cattle on the A60 between Cotes and Loughborough, but NB no parking along this road – park in Cotes and walk.</p>
+[2025-04-27 03:23:01] Tuple extraction failed for <p> </p>
+[2025-04-27 03:23:01] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-04-27 03:23:02] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 12573
+[2025-04-27 03:23:02] Tuple extraction failed for <p><img src="archive-2025/rnd1.jpg"/><img src="archive-2025/rnd2.jpg"/> <img src="archive-2025/wood.jpg"/>Ring-necked Duck and Wood Sandpiper  - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><img src="archive-2025/lt.jpg"/><img src="archive-2025/lt1.jpg"/> Little Tern - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><img src="archive-2025/channel.jpg"/> Channel Wagtail - Langford Lowfields © 
+Nick Crouch.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Averham</strong></span>  - <span class="style5"><strong>Hooded Crow</strong></span> [feeding amongst Rooks on spring barley, Averham Park Gallops this morning].
+
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Strelly</strong></span> - <span class="style6">RING OUZEL</span> [male, still present for second day at the end of Lawrence Drive overlooking the M1, 13:50 at least].
+  <img src="archive-2025/ring.jpg"/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Ring Ouzel - Strelly © 
+Simon Roberts.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Common Scoter - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+<span class="style19"><strong>Kirton</strong></span> - 3 <span class="style6">Reed Warbler</span>, <span class="style6">Sedge Warbler</span> [Kirton Brickworks pond]. 
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Strelly</strong></span> - <span class="style6">RING OUZEL</span> [male, still present for second day at the end of Lawrence Drive overlooking the M1, 18:00].
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Black-tailed Godwit - Idle Washlands © 
+Steve Furber.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Savi's Warbler - Attenborough Nature Reserve © 
+Paul Buxton.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Strelly</strong></span> - <span class="style6">RING OUZEL</span> [male, reported at Streely Hall].
+
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Saundby</strong></span> - <span class="style6">Common Redstart</span> [male, private site 07:30]. 
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Ferruginous Duck - Holme Pierrepont © 
+Simon Roberts.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Ring-necked Ducks - Littleborough © 
+Dave Read.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Langar</strong></span> - 100+<span class="style6">Fieldfare</span> [near the Wildflower Farm]. 
+
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Gotham</strong></span> - <span class="style6">RING OUZEL</span> [male in field near Cuckoo Bush Burial Grounds, this evening]. 
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Common Crane - Thoresby © 
+Matt Dineen.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p> Little Gull - Attenborough Nature Reserve © 
+Andy Hall.
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><br/>
+</p>
+[2025-04-27 03:23:02] Tuple extraction failed for <p><span class="style19"><strong>Retford</strong></span> - <span class="style6">Swallow</span> [on wires, Hyundai Garage, Retford Road this morning].
+</p>
+[2025-04-27 03:23:02] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-04-27 03:23:02] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
