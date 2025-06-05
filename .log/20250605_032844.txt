@@ -1,0 +1,29 @@
+[2025-06-05 03:28:44] Logging initialised in ./.log/20250605_032844.txt
+[2025-06-05 03:28:44] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-06-05 03:28:44] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 6437
+[2025-06-05 03:28:45] Encoding detection: Found cp1250 as plausible (best-candidate) for content. With 24 alternatives.
+[2025-06-05 03:28:45] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-06-05 03:28:45] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-06-05 03:28:46] Tuple extraction failed for <p> </p>
+[2025-06-05 03:28:46] Tuple extraction failed for <p>Eyebrook Res: <strong>Little Tern</strong> at the inflow (or fishing further up the reservoir) all day, also 3 <strong>Sanderlings</strong>, 4 <strong>Dunlin</strong>, 38 <strong>Ringed Plovers</strong> &amp; <strong>Pink-footed Goose</strong> with Greylags/Canadas at the island.</p>
+[2025-06-05 03:28:46] Tuple extraction failed for <p><em>Ibstock</em>: <span style="color: #ff0000;"><strong>Purple Heron</strong> </span>flew low over the brickworks at c14:40, then gained height and lost to view towards Ellistown.</p>
+[2025-06-05 03:28:46] Tuple extraction failed for <p><em>Rutland</em> Water: 2  <strong>Black Terns</strong>, North Arm.</p>
+[2025-06-05 03:28:46] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-06-05 03:28:46] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 4773
+[2025-06-05 03:28:46] Tuple extraction failed for <p><img src="archive-2025/spoon5.jpg"/> Spoonbill  - Slaynes Lane © 
+Stu Davenport.
+
+
+</p>
+[2025-06-05 03:28:46] Tuple extraction failed for <p><span class="style19"><strong>Arnold</strong></span> - Red-legged Partridge [feeding on field between Wembley Road and the Arrow pub, 06:00]. 
+ 
+  
+ 
+
+ 
+
+  
+
+</p>
+[2025-06-05 03:28:46] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-06-05 03:28:46] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
