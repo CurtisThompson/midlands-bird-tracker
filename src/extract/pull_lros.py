@@ -15,6 +15,8 @@ def run(county=COUNTY, url=URL, file_name=PARQUET_NAME, file_directory=PARQUET_D
     """Pull bird sightings from LROS website and store as parquet."""
     # Get URL soup
     soup = request_page_soup(url)
+    if soup is None:
+        return None
 
     # Get bird reports section of contents, split by date
     articles = soup.find_all('article')[1:]

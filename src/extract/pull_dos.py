@@ -13,6 +13,8 @@ def run(county=COUNTY, url=URL, file_name=PARQUET_NAME, file_directory=PARQUET_D
     """Pull bird sightings from DOS website and store as parquet."""
     # Get URL soup
     soup = request_page_soup(url)
+    if soup is None:
+        return None
 
     # Extract tuple of dates and bird text
     birdnavs = [(d.getText(), d.find_next('ul', {'id':'birdnav'})) for d in soup.find_all('div', {'id':'birdnavdate'})]
