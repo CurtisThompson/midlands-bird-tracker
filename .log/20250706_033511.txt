@@ -1,0 +1,14 @@
+[2025-07-06 03:35:11] Logging initialised in ./.log/20250706_033511.txt
+[2025-07-06 03:35:11] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-07-06 03:35:12] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 6616
+[2025-07-06 03:35:12] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-07-06 03:35:21] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-07-06 03:35:21] Tuple extraction failed for <p> </p>
+[2025-07-06 03:35:21] Tuple extraction failed for <p>Shawell Sandpit: Ferruginous Duck still.</p>
+[2025-07-06 03:35:21] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-16758 alignnone size-large" decoding="async" height="622" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-1024x622.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-1024x622.jpg 1024w, https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-980x595.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-480x292.jpg 480w" width="1024"/></p>
+[2025-07-06 03:35:21] Tuple extraction failed for <p style="text-align: center;">Spoonbills, Eyebrook Res © Andy Mackay</p>
+[2025-07-06 03:35:21] Tuple extraction failed for <p> </p>
+[2025-07-06 03:35:21] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-07-06 03:35:22] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 5204
+[2025-07-06 03:35:22] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-07-06 03:35:22] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
