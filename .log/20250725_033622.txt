@@ -1,0 +1,27 @@
+[2025-07-25 03:36:22] Logging initialised in ./.log/20250725_033622.txt
+[2025-07-25 03:36:22] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-07-25 03:36:23] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8464
+[2025-07-25 03:36:23] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-07-25 03:36:30] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-07-25 03:36:30] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-16803 alignnone size-full" decoding="async" height="800" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/07/woodsand_ebr200725_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/07/woodsand_ebr200725_ajm.jpg 1200w, https://lros.org.uk/wp-content/uploads/2025/07/woodsand_ebr200725_ajm-980x653.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/07/woodsand_ebr200725_ajm-480x320.jpg 480w" width="1200"/></p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p style="text-align: center;">Wood Sandpiper, Eyebrook Res © Andy Mackay</p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p><em>Ibstock</em>: 2 <strong>Crossbills</strong> at the brickworks</p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p> </p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p> </p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p> </p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p> </p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p>Shawell Sandpit: Ferruginous Duck still.</p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-16758 alignnone size-large" decoding="async" height="622" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-1024x622.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-1024x622.jpg 1024w, https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-980x595.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/06/spoonbills_ebr070625_ajm-480x292.jpg 480w" width="1024"/></p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p style="text-align: center;">Spoonbills, Eyebrook Res © Andy Mackay</p>
+[2025-07-25 03:36:30] Tuple extraction failed for <p> </p>
+[2025-07-25 03:36:30] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-07-25 03:36:31] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 9391
+[2025-07-25 03:36:31] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - <span class="style6">Mediterranean Gull</span> [adult, Scrooby Top new gravel workings opposite the main Quarry access, 17:00].
+</p>
+[2025-07-25 03:36:31] Tuple extraction failed for <p><span class="style19"><strong>Costock</strong></span> - <span class="style6">Raven</span> [over north-west calling, 07:30]. 	
+</p>
+[2025-07-25 03:36:31] Tuple extraction failed for <p><span class="style19"><strong>Dunham</strong></span> - <span class="style6">SPOONBILL</span> [flew north over Dunham Bridge, 11:28].  
+
+</p>
+[2025-07-25 03:36:31] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-07-25 03:36:31] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
