@@ -1,0 +1,123 @@
+[2025-09-29 03:23:19] Logging initialised in ./.log/20250929_032319.txt
+[2025-09-29 03:23:19] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-09-29 03:23:20] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 9667
+[2025-09-29 03:23:20] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-09-29 03:23:25] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17333 aligncenter size-full" decoding="async" height="830" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/09/slav_str260925_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/09/slav_str260925_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2025/09/slav_str260925_cmh-980x678.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/09/slav_str260925_cmh-480x332.jpg 480w" width="1200"/></p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;">Slavonian Grebe, Stanford Res © Chris Hubbard</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><em>Groby</em>: juv <span style="color: #0000ff;"><strong>Gannet</strong> </span>flew north towards Bradgate Park at c14:10.</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17304 aligncenter size-full" decoding="async" height="1122" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/09/glibis_str210925_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/09/glibis_str210925_cmh.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/09/glibis_str210925_cmh-1280x957.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/09/glibis_str210925_cmh-980x733.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/09/glibis_str210925_cmh-480x359.jpg 480w" width="1500"/></p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;">Glossy Ibis, Stanford Res © Chris Hubbard</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17303 aligncenter size-full" decoding="async" height="970" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/09/bngrebe_str200925_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/09/bngrebe_str200925_cmh.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/09/bngrebe_str200925_cmh-1280x828.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/09/bngrebe_str200925_cmh-980x634.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/09/bngrebe_str200925_cmh-480x310.jpg 480w" width="1500"/></p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;">Black-necked Grebe, Stanford Res © Chris Hubbard</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><em>Moira</em>: probable <span style="color: #0000ff;"><strong>Glossy Ibis</strong> </span>flew over heading towards Hicks Lodge at c16:00.</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><em>Sileby</em>: <span style="color: #0000ff;"><strong>Manx Shearwater</strong> </span>found exhausted and taken into care.</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><em>Somerby</em>: 6 <strong>Wheatears</strong> in field on Newbold Road.</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17172 aligncenter size-full" decoding="async" height="1000" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/09/greyphal1_rw040925_sallen.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/09/greyphal1_rw040925_sallen.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/09/greyphal1_rw040925_sallen-1280x853.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/09/greyphal1_rw040925_sallen-980x653.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/09/greyphal1_rw040925_sallen-480x320.jpg 480w" width="1500"/></p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17173 aligncenter size-full" decoding="async" height="700" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 525px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/09/greyphal2_rw040925_sallen.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/09/greyphal2_rw040925_sallen.jpg 525w, https://lros.org.uk/wp-content/uploads/2025/09/greyphal2_rw040925_sallen-480x640.jpg 480w" width="525"/></p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;">Grey Phalarope, Rutland Water © Steve Allen</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17164 aligncenter size-full" decoding="async" height="800" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/09/shag_rw030925_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/09/shag_rw030925_ajm.jpg 1200w, https://lros.org.uk/wp-content/uploads/2025/09/shag_rw030925_ajm-980x653.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/09/shag_rw030925_ajm-480x320.jpg 480w" width="1200"/></p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p style="text-align: center;">Juvenile Shag, Rutland Water dam © Andy Mackay</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p>Also a pair of Swarovski NL Pure 8×42 binoculars has been added to the <a href="https://lros.org.uk/for-sale-wanted" rel="noopener" target="_blank">For Sale page</a>, along with some free British Birds magazines.</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p>Eyebrook Res: adult &amp; juvenile <strong>Sandwich Terns</strong> still at the inflow this morning at least, also <strong>Cattle Egret</strong>, <strong>Grey Plover</strong>, <strong>Ruff</strong> &amp; <strong>Black-tailed Godwit</strong>, 4 <strong>Dunlin</strong> &amp; <strong>Common</strong> <strong>Sandpiper</strong>.</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p>No sign of the Caspian Tern today – it was in Nottinghamshire, south of Newark this morning, and then flew off high north in the afternoon.</p>
+[2025-09-29 03:23:25] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-09-29 03:23:25] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 11587
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Ladybay</strong></span> - 2 <span class="style6">GLOSSY IBIS</span> [flew over towards Colwick CP, early morning; Joe Harris]. 
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Gamston</strong></span> - 2 <span class="style6">GLOSSY IBIS</span> [juveniles along the Grantham Canal, then flushed by  walkers, early afternoon; Jon White]; Also<span class="style6"> Peregrine</span>.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/gan1.jpg"/> <img src="archive-2025/gan2.jpg"/><img src="archive-2025/gan3.jpg"/>Gannet   - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - 5 <span class="style6">GLOSSY IBIS</span> [Scrooby Top Quarry, then flush by works vehicle and flew east, mid-afternoon; Del Evans]. 
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Nuthall</strong></span> - 40 <span class="style6">Pink-footed Geese</span> [moving east, mid-morning].  	
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Kilton</strong></span> - 60 
+    <span class="style6">Pink-footed Geese</span> [over, 09:13].
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - c.50  
+  <span class="style6">Pink-footed Geese</span> [over north-west, 17:10; Del Evans].
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Farndon</strong></span> - <span class="style6">Whinchat</span>.  
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/gannet.jpg"/>Gannet   - Babworth © 
+Stu Davenport.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/ls1.jpg"/> <img src="archive-2025/ls2.jpg"/>Little Stint   - Attenborough Nature Reserve © 
+Daniel Shaw.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/jar2.jpg"/> <img src="archive-2025/jar1.jpg"/><img src="archive-2025/jar.jpg"/>Nightjar   - Gonalston © 
+Mark Brown.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/gloss13.jpg"/> <img src="archive-2025/gloss14.jpg"/><img src="archive-2025/gloss15.jpg"/>Glossy Ibis   - Kilvington Lakes © 
+Lionel Reyes.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/manx.jpg"/> <img src="archive-2025/manx1.jpg"/><img src="archive-2025/manx2.jpg"/>Manx Shearwater   - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/manx4.jpg"/> <img src="archive-2025/manx5.jpg"/><img src="archive-2025/manx6.jpg"/>Manx Shearwater   - Holme Pierrepont © 
+Miles Cluff.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Beeston</strong></span> - 3 Ring-necked Parakee [Highfields Park Lake, this morning].  
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/gloss6.jpg"/> <img src="archive-2025/gloss7.jpg"/><img src="archive-2025/gloss8.jpg"/>Glossy Ibis  - Attenborough Nature Reserve © 
+Simon Roberts.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/gloss9.jpg"/> 33 Glossy Ibis  - over Long Eaton heading towards ANR © 
+Daniel Shaw.
+
+
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/lt2.jpg"/> <img src="archive-2025/lt5.jpg"/>Little Tern  - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/lt3.jpg"/> <img src="archive-2025/lt4.jpg"/>Little Tern  - Holme Pierrepont © 
+Miles Cluff.
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/bt1.jpg"/> <img src="archive-2025/bt2.jpg"/>Black Tern  - Idle Washlands © 
+Steve Furber.
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - <span class="style6">OSPREY</span> [fishing the Gravel Workings, 11:10; Del Evans]. 
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><img src="archive-2025/garg1.jpg"/> Garganey  - Attenborough Nature Reserve © 
+Simon Roberts.
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><br/>
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Warsop</strong></span> - <span class="style6">Red Kite</span>, 6 <span class="style6">Raven</span>, 2 <span class="style6">Tree Pipit</span> south-east [over Sherwood Forest car boot, 07:30]. 
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Kirton</strong></span> - 3 <span class="style6">Hobby</span> [over the Brick Pits, 11:15].  
+
+</p>
+[2025-09-29 03:23:25] Tuple extraction failed for <p><span class="style19"><strong>Kirton</strong></span> - 15 <span class="style6">Black-tailed Godwit</span> [north-west over Kirton Brick Pits, early afternoon]; also <span class="style6">Swift</span>.
+</p>
+[2025-09-29 03:23:25] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-09-29 03:23:25] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
