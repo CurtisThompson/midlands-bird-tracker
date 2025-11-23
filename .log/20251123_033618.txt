@@ -1,0 +1,69 @@
+[2025-11-23 03:36:18] Logging initialised in ./.log/20251123_033618.txt
+[2025-11-23 03:36:18] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2025-11-23 03:36:19] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8917
+[2025-11-23 03:36:19] Starting new HTTPS connection (1): lros.org.uk:443
+[2025-11-23 03:36:36] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17572 aligncenter size-full" decoding="async" height="1149" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/11/lscauptufted_swr121125_jmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/11/lscauptufted_swr121125_jmh.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/11/lscauptufted_swr121125_jmh-1280x980.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/11/lscauptufted_swr121125_jmh-980x751.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/11/lscauptufted_swr121125_jmh-480x368.jpg 480w" width="1500"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;">Female Lesser Scaup (behind) and Tufted Duck, Swithland Res, 12th November © John Hague</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17547 aligncenter size-full" decoding="async" height="1153" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup2_swr131125_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup2_swr131125_ajm.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup2_swr131125_ajm-1280x984.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup2_swr131125_ajm-980x753.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup2_swr131125_ajm-480x369.jpg 480w" width="1500"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17546 aligncenter size-full" decoding="async" height="1153" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1500px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup1_swr131125_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup1_swr131125_ajm.jpg 1500w, https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup1_swr131125_ajm-1280x984.jpg 1280w, https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup1_swr131125_ajm-980x753.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/11/lesserscaup1_swr131125_ajm-480x369.jpg 480w" width="1500"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;">Female Lesser Scaup, Swithland Res © Andy Mackay</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><em>Hathern</em>: <strong>Black Redstart</strong> still on the church.</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><em>Hathern</em>: <strong>Black Redstart</strong> still on the church.</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><em>Hathern</em>: <strong>Black Redstart</strong> still on the church.</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><em>Hathern</em>: <strong>Black Redstart</strong> on the church.</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17452 aligncenter size-full" decoding="async" height="554" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 844px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/10/pomskua1_rw251025_tonywatt.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/10/pomskua1_rw251025_tonywatt.jpg 844w, https://lros.org.uk/wp-content/uploads/2025/10/pomskua1_rw251025_tonywatt-480x315.jpg 480w" width="844"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17453 aligncenter size-full" decoding="async" height="669" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1000px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/10/pomskua2_rw251025_tonywatt.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/10/pomskua2_rw251025_tonywatt.jpg 1000w, https://lros.org.uk/wp-content/uploads/2025/10/pomskua2_rw251025_tonywatt-980x656.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/10/pomskua2_rw251025_tonywatt-480x321.jpg 480w" width="1000"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;">Pomarine Skua, Rutland Water © Tony Watt</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-17400 aligncenter size-full" decoding="async" height="870" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/10/agplover_ebr181025_ajm.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/10/agplover_ebr181025_ajm.jpg 1200w, https://lros.org.uk/wp-content/uploads/2025/10/agplover_ebr181025_ajm-980x711.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/10/agplover_ebr181025_ajm-480x348.jpg 480w" width="1200"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;">Juvenile American Golden Plover, Eyebrook Res © Andy Mackay</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><em>Quorn</em>: <span style="color: #0000ff;"><strong>Woodlark</strong> </span>flew low west over Great Central Railway station at 11:20.</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><em>Groby</em>: <strong>Hawfinch</strong> flew low west over Fern Crescent at 09:49.</p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p><img alt="" class="wp-image-17384 aligncenter size-full" decoding="async" height="800" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" src="https://lros.org.uk/wp-content/uploads/2025/10/snowbunt_beaconhill141025_cmh.jpg" srcset="https://lros.org.uk/wp-content/uploads/2025/10/snowbunt_beaconhill141025_cmh.jpg 1200w, https://lros.org.uk/wp-content/uploads/2025/10/snowbunt_beaconhill141025_cmh-980x653.jpg 980w, https://lros.org.uk/wp-content/uploads/2025/10/snowbunt_beaconhill141025_cmh-480x320.jpg 480w" width="1200"/></p>
+[2025-11-23 03:36:36] Tuple extraction failed for <p style="text-align: center;">Snow Bunting, Beacon Hill © Chris Hubbard</p>
+[2025-11-23 03:36:36] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2025-11-23 03:36:37] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 7808
+[2025-11-23 03:36:37] Tuple extraction failed for <p><span class="style19"><strong>Meering</strong></span> - <span class="style6">Cattle Egret</span> [on the river Trent then flew towards Mons Pool; Robert Carr]; also 2 <span class="style6">Stonechat</span>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/ltd3.jpg"/><img src="archive-2025/ltd1.jpg"/><img src="archive-2025/ltd2.jpg"/> Long-tailed Duck  - Kilvington Lakes © 
+Miles Cluff.
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><br/>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/ltd.jpg"/> Long-tailed Duck  - Kilvington Lakes © 
+Lionel Reyes.
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p> <br/>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><span class="style19"><strong>Caunton</strong></span> - c.180 <span class="style6">Pink-footed Geese</span> [80 heading east, 11:13; c.100 heading north-east 12:07; Angela Plumb]. 
+
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><span class="style19"><strong>Marnham</strong></span> - 62 <span class="style6">Whooper Swan</span>, c.140 <span class="style6">Pink-footed Geese</span>, <span class="style6">Pintail</span> [drake], <span class="style6">Blackcap</span>, Chiffchaff [this morning; Alfie Seastron]. 
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/hpgp.jpg"/><img src="archive-2025/hpbarwit.jpg"/><img src="archive-2025/hpscaup.jpg"/> Grey Plover, Bar-tailed Godwit and Greater Scaup - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p> <br/>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/gloss21.jpg"/> Glossy Ibis  - Lound © 
+Douglas Whall.
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p> <br/>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/fire.jpg"/> Firecrest   - Budby Common © 
+Dave Morton.
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p> <br/>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/whoop.jpg"/> Whooper Swan  - Misterton Carr © 
+Miles Cluff.
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p> <br/>
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p><img src="archive-2025/xbill1.jpg"/><img src="archive-2025/xbill2.jpg"/> Crossbill   - Thoresby Pit Top © 
+Kenneth Roberts .
+</p>
+[2025-11-23 03:36:37] Tuple extraction failed for <p> <br/>
+</p>
+[2025-11-23 03:36:37] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2025-11-23 03:36:37] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
