@@ -1,0 +1,91 @@
+[2026-01-11 03:39:54] Logging initialised in ./.log/20260111_033954.txt
+[2026-01-11 03:39:54] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-01-11 03:39:54] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8307
+[2026-01-11 03:39:54] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-01-11 03:40:04] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-01-11 03:40:04] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-01-11 03:40:04] Tuple extraction failed for <p> </p>
+[2026-01-11 03:40:04] Tuple extraction failed for <p> </p>
+[2026-01-11 03:40:04] Tuple extraction failed for <p><em>Groby</em>: 3 <strong>Whooper Swans</strong> flew north then south-west this morning.</p>
+[2026-01-11 03:40:04] Tuple extraction failed for <p>Big influx of White-fronts across the country today (and several Tundra Beans). There will be more to be found – check all flocks of feral geese!</p>
+[2026-01-11 03:40:04] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-01-11 03:40:05] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 8169
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 2 <span class="style6">Caspian Gull</span> [adult and 2nd-winter, Chainbridge Pit 15:15; Paul Hobson]. 
+
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - <span class="style6">Great White Egret</span>, <span class="style6">Marsh Harrier</span>  [Marshes by School Lane 11:00, 2 Snipe [flooded field along Station Road; Del Evans].
+
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><img src="archive-2025/rwf5.jpg"/><img src="archive-2025/rwf6.jpg"/> Russian White-fronted Goose - Stoke Bardolph © 
+Miles Cluff.
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p> <br/>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Gotham</strong></span> - <span class="style6">Cattle Egret</span> [flying over south end of the village east to west, 10:59; Adey Fox]. 
+
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - <span class="style6">Woodcock</span> [flew over Main Road, 16:55; John Ellis]. 
+
+
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><img src="archive-2025/smew1.jpg"/>Smew - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p> <br/>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Meering</strong></span> - <span class="style6">Cattle Egret</span> [by entrance track], 5 Goosander, 4 Little Egret [river Trent], 55 Egyptian Geese, 10 Lapwing [north; Robert Carr].
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Misson</strong></span> – 2 <span class="style6">Cattle Egret</span> [Cemetery area; Chip Rhodes].
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 2 <span class="style6">Water Rail</span> [on frozen muddy Fork Pond, Idle Valley Centre car park, mid-morning; Stu Davenport], 4  
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span>, <strong>Barnacle Goose</strong> [Lower Sheep Fields mid-afternoon; Mike Vickers].
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [still Alans Meadow, 14:24 at least], 2 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [flew into Alans Meadow with large flock of Greylag, 14:42; Darren Anderson]. 
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 4 <span class="style6">Cattle Egret</span> [Walters Farm lawn, early afternoon],  
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [at least two still on Alans Meadow, 14:53; Stu Davenport], <span class="style6">Green Sandpiper</span>, Water Rail [Walters Farm; Gary Hobson].
+
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Worksop</strong></span> - <span class="style6">BLACK REDSTART</span> [male, inside Explore Concrete Factory 15:00, private buisness with no public access; Lee Brack].
+  
+  
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 7 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [Alans Meadow, still early afternoon; Darren Houseman], <span class="style6">Woodcock</span>, <span class="style6">Red Kite</span>, <span class="style6">Raven</span> [Bunker Wood area; Tim Carter], 2 Snipe, Bullfinch, 100+<span class="style6">Redpoll</span>  [Neatholme; 
+Martin McCallum].
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><img src="archive-2025/rwfg.jpg"/><img src="archive-2025/rwfg1.jpg"/> Russian White-fronted Goose - Stoke Bardolph © 
+Miles Cluff.
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p> <br/>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 7 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span>  [Alans Meadow/Lower Sheep Fields, this morning; Darren Houseman], 4 <span class="style6">Cattle Egret</span> [Chainbridge Lane; Martin McCallum]. 
+
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p class="style19">Nottinghamshire 122
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>Derbyshire 122
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>Leicestershire &amp; Rutland 115
+<br/>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>There was a hasty discussion this evening on how to split the winners, as it was agreed that a tie was unsatisfactory. This resulted in a 'Golden Species' play off, meaning the next species recorded not seen on NYD would produce the winner. That became Derbyshire with three Hawfinch noted there on the morning of the 2nd.
+<br/>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>The other winners were:
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>Team: Rutland Lockdowners 95
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>Individual: Dale Green 88 (Leic's)
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>Green: Mark Heaver 82 (Leic's)
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>Best Find: Tony Davison for Slavonian Grebe at Foremark Reservoir [Derby's)
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p><img src="archive-2025/nyd.jpg"/>
+</p>
+[2026-01-11 03:40:05] Tuple extraction failed for <p> <br/>
+</p>
+[2026-01-11 03:40:05] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-01-11 03:40:05] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
