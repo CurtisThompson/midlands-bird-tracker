@@ -1,0 +1,17 @@
+[2026-01-23 03:38:09] Logging initialised in ./.log/20260123_033809.txt
+[2026-01-23 03:38:09] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-01-23 03:38:10] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 10706
+[2026-01-23 03:38:10] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-01-23 03:38:11] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-01-23 03:38:11] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> again in field opposite The Gate Hangs Well.</p>
+[2026-01-23 03:38:11] Tuple extraction failed for <p>Also a thermal monocular has been added to the <a href="https://lros.org.uk/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2026-01-23 03:38:11] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-01-23 03:38:11] Tuple extraction failed for <p> </p>
+[2026-01-23 03:38:11] Tuple extraction failed for <p> </p>
+[2026-01-23 03:38:11] Tuple extraction failed for <p><em>Groby</em>: 3 <strong>Whooper Swans</strong> flew north then south-west this morning.</p>
+[2026-01-23 03:38:11] Tuple extraction failed for <p>Big influx of White-fronts across the country today (and several Tundra Beans). There will be more to be found – check all flocks of feral geese!</p>
+[2026-01-23 03:38:11] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-01-23 03:40:26] Failed to get https://www.nottsbirders.net/latest_sightings.html page content
+[2026-01-23 03:40:26] HTTPSConnectionPool(host='www.nottsbirders.net', port=443): Max retries exceeded with url: /latest_sightings.html (Caused by NewConnectionError("HTTPSConnection(host='www.nottsbirders.net', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-01-23 03:40:26] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-01-23 03:40:26] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
