@@ -1,0 +1,31 @@
+[2026-02-03 03:51:54] Logging initialised in ./.log/20260203_035154.txt
+[2026-02-03 03:51:54] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-02-03 03:51:55] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 6888
+[2026-02-03 03:51:55] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-02-03 03:51:55] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-02-03 03:51:55] Tuple extraction failed for <p> </p>
+[2026-02-03 03:51:55] Tuple extraction failed for <p> </p>
+[2026-02-03 03:51:55] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> again in field opposite The Gate Hangs Well.</p>
+[2026-02-03 03:51:55] Tuple extraction failed for <p>Also a thermal monocular has been added to the <a href="https://lros.org.uk/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2026-02-03 03:51:55] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-02-03 03:51:55] Tuple extraction failed for <p> </p>
+[2026-02-03 03:51:55] Tuple extraction failed for <p> </p>
+[2026-02-03 03:51:55] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-02-03 03:51:56] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 4351
+[2026-02-03 03:51:56] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Merlin</span> [male in flight over Neatholme Scrape],<span class="style6"> Marsh Harrier</span> [Neatholme Pit; Phil Cadman], 5 <span class="style6">Pintail</span> [2 drakes], <span class="style6">SMEW</span> [redhead, Neatholme Fen; Keith Fisher, Dave Richardson]. 
+</p>
+[2026-02-03 03:51:56] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 2 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [Smithy Marsh, 12:35; Alfie Seastron].
+</p>
+[2026-02-03 03:51:56] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Caspian Gull</span> [1st-winter, briefly Bellmoor Lake, 12:15; Paul Hobson]; also 2 Shelduck, 2 Goosander, 2 Oystercatcher, Grey Wagtail. 
+</p>
+[2026-02-03 03:51:56] Tuple extraction failed for <p><img src="archive-2025/sibe3.jpg"/> Siberian Chiffchaff - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2026-02-03 03:51:56] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-03 03:51:56] Tuple extraction failed for <p><span class="style19"><strong>Hodsock</strong></span> - 220 Lapwing. (John Gallagher) 	
+	  
+
+  </p>
+[2026-02-03 03:51:56] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-02-03 03:51:56] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
