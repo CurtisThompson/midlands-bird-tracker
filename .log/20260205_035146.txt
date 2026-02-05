@@ -1,0 +1,39 @@
+[2026-02-05 03:51:46] Logging initialised in ./.log/20260205_035146.txt
+[2026-02-05 03:51:46] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-02-05 03:51:47] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 7169
+[2026-02-05 03:51:47] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-02-05 03:51:56] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-02-05 03:51:56] Tuple extraction failed for <p> </p>
+[2026-02-05 03:51:56] Tuple extraction failed for <p> </p>
+[2026-02-05 03:51:56] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> again in field opposite The Gate Hangs Well.</p>
+[2026-02-05 03:51:56] Tuple extraction failed for <p>Also a thermal monocular has been added to the <a href="https://lros.org.uk/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2026-02-05 03:51:56] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-02-05 03:51:56] Tuple extraction failed for <p> </p>
+[2026-02-05 03:51:56] Tuple extraction failed for <p> </p>
+[2026-02-05 03:51:56] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-02-05 03:51:57] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 5079
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 3 
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [in with <span class="style6">Pink-footed Geese</span> Clayworth Common], c,100 Lapwing, c.50 <span class="style6">Golden Plover</span> [in stubble field by Clayworth Copse; Dave Richardson], <span class="style6">Woodcock</span> [Bunker Wood], <span class="style6">Woodcock</span>, Tawny Owl [heard], 2 Goosander [Bellmoor Ponds], 65 Shoveler, 2 Goosander, 2 Oystercatcher, 3 Herring Gull [Bellmoor Lake; Gary Hobson].
+
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style120">Welbeck</span>  - <span class="style6">Great White Egret</span> [below the dam wall of the middle Lake; Paul Burrill].
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Merlin</span> [male in flight over Neatholme Scrape],<span class="style6"> Marsh Harrier</span> [Neatholme Pit; Phil Cadman], 5 <span class="style6">Pintail</span> [2 drakes], <span class="style6">SMEW</span> [redhead, Neatholme Fen; Keith Fisher, Dave Richardson]. 
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style19"><strong>Welbeck</strong></span> - <span class="style6">Great White Egret</span> [feeding in field with two Grey Heron near Welbeck Garden Centre; Jim Mccall]. 
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 2 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [Smithy Marsh, 12:35; Alfie Seastron].
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Caspian Gull</span> [1st-winter, briefly Bellmoor Lake, 12:15; Paul Hobson]; also 2 Shelduck, 2 Goosander, 2 Oystercatcher, Grey Wagtail. 
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><img src="archive-2025/sibe3.jpg"/> Siberian Chiffchaff - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-05 03:51:57] Tuple extraction failed for <p><span class="style19"><strong>Hodsock</strong></span> - 220 Lapwing. (John Gallagher) 	
+	  
+
+  </p>
+[2026-02-05 03:51:57] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-02-05 03:51:57] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
