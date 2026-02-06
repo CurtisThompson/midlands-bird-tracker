@@ -1,0 +1,17 @@
+[2026-02-06 03:51:30] Logging initialised in ./.log/20260206_035130.txt
+[2026-02-06 03:51:30] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-02-06 03:51:31] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 7188
+[2026-02-06 03:51:31] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-02-06 03:51:35] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-02-06 03:51:35] Tuple extraction failed for <p> </p>
+[2026-02-06 03:51:35] Tuple extraction failed for <p> </p>
+[2026-02-06 03:51:35] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> again in field opposite The Gate Hangs Well.</p>
+[2026-02-06 03:51:35] Tuple extraction failed for <p>Also a thermal monocular has been added to the <a href="https://lros.org.uk/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2026-02-06 03:51:35] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-02-06 03:51:35] Tuple extraction failed for <p> </p>
+[2026-02-06 03:51:35] Tuple extraction failed for <p> </p>
+[2026-02-06 03:51:35] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-02-06 03:53:51] Failed to get https://www.nottsbirders.net/latest_sightings.html page content
+[2026-02-06 03:53:51] HTTPSConnectionPool(host='www.nottsbirders.net', port=443): Max retries exceeded with url: /latest_sightings.html (Caused by NewConnectionError("HTTPSConnection(host='www.nottsbirders.net', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-02-06 03:53:51] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-02-06 03:53:51] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
