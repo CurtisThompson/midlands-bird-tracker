@@ -1,0 +1,110 @@
+[2026-02-21 03:49:15] Logging initialised in ./.log/20260221_034915.txt
+[2026-02-21 03:49:15] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-02-21 03:49:15] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 9739
+[2026-02-21 03:49:16] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-02-21 03:49:22] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-02-21 03:49:22] Tuple extraction failed for <p><em>Syston</em>: 2 <strong>White-fronted Geese</strong> in field opposite The Gate Hangs Well.</p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p> </p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p> </p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> again in field opposite The Gate Hangs Well.</p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p>Also a thermal monocular has been added to the <a href="https://lros.org.uk/for-sale-wanted/" rel="noopener" target="_blank">For Sale page</a>.</p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p><em>Syston</em>: 6 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p> </p>
+[2026-02-21 03:49:22] Tuple extraction failed for <p> </p>
+[2026-02-21 03:49:22] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-02-21 03:49:23] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 10273
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Carlton</strong></span> - <span class="style6">Blackcap</span> [male, on garden  feeders this morning; Gil Green].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 3 <span class="style6">Cattle Egret</span> [on the backs of Cattle, Walters Sheep Field; Marcus Beck], 
+  <span class="style6">SMEW</span> [redhead still Neatholme Fen; Birdguides]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Scrooby</strong></span> - 35 <span class="style6">Pink-footed Geese</span> [in with c.300 feral geese], 25 Mute Swan, 15 <span class="style6">Whooper Swan</span>,  11 <span class="style6">Pintail</span>, 25 Shoveler [flooded fields between the river Idle and Ryton, access along Station Rd Scrooby; Del Evans].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">SMEW</span> [redhead still Neatholme Fen, 12:30], 52 Cormorant, 3 Shelduck, 8 Goosander, 2 Oystercatcher, Sparrowhawk [Bellmoor Lake; Stu Davenport], <span class="style6">Red-crested Pochard</span> [pair, Water Ski Pit], <span class="style6">Great White Egret</span> [Neatholme Scrape], 50+Siskin [in trees alongside Neatholme Fen; Peter Burrill]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><img src="archive-2025/rw.jpg"/> Russian White-fronted Geese - Cotgrave/Bassingfield  © 
+Miles Cluff.
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style120">Lenton</span> - <span class="style6">Red-crested Pochard</span> [male, Highfiels Lake, this morning; David Parkin].  
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GREATER SCAUP</span> [female, Chainbridge Pit, 10:31; Birdguids],  <span class="style6">Green Sandpiper</span> [Alans Meadow], Great White Egret [Bluebell Fishery], 2 Egyptian Geese, 2 Shelduck [Lower Sheep Fields; Gary Hobson]. 
+
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style120">Girton</span> - 17 
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span>, 16 <span class="style6">Whooper Swan</span>, 105 <span class="style6">Pintail</span> [Smithy Marsh, late morning; Nick Crouch].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Retford</strong></span> - 6 <span class="style6">Whooper Swan</span> [heading north over Thrumpton Lane, 09:34; Gary Hobson]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Meering</strong></span> - 8 <span class="style6">Whooper Swan</span> [3 adults/5 juvs], 119 <span class="style6">Pintail</span> [together on floods, late afternoon; Nick Crouch]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">SMEW</span> [redhead; Darren Anderson ],   22 <span class="style6">Pintail</span>, 2 Shelduck, 8 Goldeneye, c.300 Lapwing [Neatholme Fen, this afternoon; Gary Hobson], 2 <span class="style6">Yellow-legged Gull</span> [Bellmoor Lake; Paul Hobson], <span class="style6">Whooper Swan</span>, 7 <span class="style6">Grey Partridge</span>, <span class="style6">Raven</span> [Clayworth Common; Pete Freeman].
+
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Blyth</strong></span> - <strong>White-tailed Eagle</strong> [Reported immature, perched on  fence on the edge of a small clearing just before the Blyth Services, this morning; Julie McDonald].  
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 117 	
+	
+	
+	
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span>, 313 <span class="style6">Pink-footed Geese</span>, 2 <strong>Barnacle Geese</strong> [Smithy Marsh, 16:18; Nick Crouch].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- c.500 Lapwing, cc <span class="style6">Marsh Harrier</span> [Neatholme Pit, this morning], <span class="style6">SMEW</span> [redhead], 190 Shoveler, 15 <span class="style6">Pintail</span> [Neatholme Fen], <span class="style6">Stonechat</span> [Tiln North; Vic Giles], 6 Shoveler [Bellmoor Lake; Stue Davenport]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><img src="archive-2025/scaup8.jpg"/><img src="archive-2025/scaup9.jpg"/> Greater Scaup - King's Mill Reservoir © 
+Miles Cluff.
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 78  
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [still on Smithy Marsh, mid-afternoon; Mark Dawson]; also 16 <strong>Barnacle Geese</strong>. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>-
+12 <span class="style6">Pintail</span>, Oystercatcher [Neatholme Fen], 6 <span class="style6">Red-crested Pochard</span> [5 drakes],GSW [Linghurst lakes; Martin McCallum]. 
+  
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 6<span class="style6"> RUSSIAN WHITE-FRONTED GEESE</span>, 37 <span class="style6">Pink-footed Geese</span>, 2 <span class="style6">Grey Partridge</span> [Clayworth Common 16:20; Dave Richardson], Cetti's Warbler, Chiffchaff [singing Bellmoor Lake, early afternoon; Paul Hobson], c.100 <span class="style6">Pink-footed Geese</span> [west over Mattersey then turned south, late morning; Peter Cottam].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><img src="archive-2025/rwf.jpg"/><img src="archive-2025/rwf1.jpg"/> Russian White-fronted Geese - Hoveringham © 
+Miles Cluff.
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 99 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [61 flew into Smithy Marsh 08:52, later joined by a further 38 that flew in from the north, 10:30]; also 6 <strong>Barnacle Geese</strong>, c.300 <span class="style6">Pink-footed Geese</span> [over west], and 7 <span class="style6">Whooper Swan</span>; Nick Crouch], <span class="style6">MEDITERRANEAN GULL</span> [Georges Fishing Lake, 13:36; Janice Bradley].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><img src="archive-2025/wf.jpg"/><img src="archive-2025/wf1.jpg"/> Russian White-fronted Geese - Girton © 
+Nick Crouch.
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><img src="archive-2025/scaup7.jpg"/><img src="archive-2025/scaup6.jpg"/> Greater Scaup - King's Mill Reservoir © 
+Robin Brace.
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 3 
+  <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [in with <span class="style6">Pink-footed Geese</span> Clayworth Common], c,100 Lapwing, c.50 <span class="style6">Golden Plover</span> [in stubble field by Clayworth Copse; Dave Richardson], <span class="style6">Woodcock</span> [Bunker Wood], <span class="style6">Woodcock</span>, Tawny Owl [heard], 2 Goosander [Bellmoor Ponds], 65 Shoveler, 2 Goosander, 2 Oystercatcher, 3 Herring Gull [Bellmoor Lake; Gary Hobson].
+
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style120">Welbeck</span>  - <span class="style6">Great White Egret</span> [below the dam wall of the middle Lake; Peter Burrill].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Merlin</span> [male in flight over Neatholme Scrape],<span class="style6"> Marsh Harrier</span> [Neatholme Pit; Phil Cadman], 5 <span class="style6">Pintail</span> [2 drakes], <span class="style6">SMEW</span> [redhead, Neatholme Fen; Keith Fisher, Dave Richardson]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Welbeck</strong></span> - <span class="style6">Great White Egret</span> [feeding in field with two Grey Heron near Welbeck Garden Centre; Jim Mccall]. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - 2 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [Smithy Marsh, 12:35; Alfie Seastron].
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Caspian Gull</span> [1st-winter, briefly Bellmoor Lake, 12:15; Paul Hobson]; also 2 Shelduck, 2 Goosander, 2 Oystercatcher, Grey Wagtail. 
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><img src="archive-2025/sibe3.jpg"/> Siberian Chiffchaff - Holme Pierrepont © 
+Alan Clewes.
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p> <br/>
+</p>
+[2026-02-21 03:49:23] Tuple extraction failed for <p><span class="style19"><strong>Hodsock</strong></span> - 220 Lapwing. (John Gallagher) 	
+	  
+
+  </p>
+[2026-02-21 03:49:23] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-02-21 03:49:23] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
