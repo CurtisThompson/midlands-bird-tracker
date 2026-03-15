@@ -1,0 +1,69 @@
+[2026-03-15 04:02:13] Logging initialised in ./.log/20260315_040213.txt
+[2026-03-15 04:02:13] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-03-15 04:02:13] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 9164
+[2026-03-15 04:02:13] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-03-15 04:02:14] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-03-15 04:02:14] Tuple extraction failed for <p><em>Syston</em>: 2 <strong>White-fronted Geese</strong> still at the Gate Hangs Well.</p>
+[2026-03-15 04:02:14] Tuple extraction failed for <p><em>Syston</em>: 8 <strong>White-fronted Geese</strong> in field south of The Gate Hangs Well.</p>
+[2026-03-15 04:02:14] Tuple extraction failed for <p><em>Syston</em>: 1 <strong>White-fronted Goose</strong> still at Gate Hangs Well.</p>
+[2026-03-15 04:02:14] Tuple extraction failed for <p><em>Syston</em>: 2 <strong>White-fronted Geese</strong> in field opposite The Gate Hangs Well.</p>
+[2026-03-15 04:02:14] Tuple extraction failed for <p> </p>
+[2026-03-15 04:02:14] Tuple extraction failed for <p> </p>
+[2026-03-15 04:02:14] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-03-15 04:02:15] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 7938
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">TREE SPARROW</span> [callng from hedge Chainbridge Lane just beyond the horse paddocks, late afternoon; Andrew Goodall], <span class="style6">Sand Martin</span> [Neatholme Fen], <span class="style6">Blackcap</span> [male Lindhurst Wood], 
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Carlton</strong></span> -  <span class="style6">Blackcap</span> [female still in garden; Gil Green].
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>-  27 <span class="style6">Whooper Swan</span>, 2 Mute Swan, <span class="style6">GLOSSY IBIS</span>, 2 Oystercatcher,
+  Goldeneye,
+  2 Little Grebe,  singles of Great Crested Grebe [Neatholme Scrape
+  North end of lake], 
+  Bullfinch
+  
+  [male, Neatholme Lane], 
+  2 <span class="style6">Great White Egret</span>
+  [Cross Lane Fishery],  Shelduck, 4 <span class="style6">Pintail</span> [2 pairs],  Goldeneye [3 pairs], Shoveler, Teal, Pochard, Tufted, Mallard,
+  2 Grey Heron, 2 Little Egret,  <span class="style6">Great White Egret</span>  [Neatholme Fen], 
+  
+  Goldeneye [at least six displaying drakes],
+  2 Egyptian Geese [Neatholme Pit; Lesley Noar]. 
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Carlton</strong></span> - 2 <span class="style6">Blackcap</span> [over wintering male/female still in garden; Gil Green].  	
+   </p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [Neatholme Scrape, in the north east corner; Phil Cadman], 7 <span class="style6">Whooper Swan</span>, Black Swan [Clayworth Common], 4 <span class="style6">Pintail</span> [Neatholme Fen]. 
+
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Girton</strong></span> - <span class="style5"><strong>Slavonian Grebe</strong></span> [still present on North 	
+	
+	
+	
+Pit, early afternoon], 3 <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [Smithy Marsh; Nick Crouch].
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lenton</strong></span> - 4 <span class="style6">Red-crested Pochard</span> [3 drakes], <strong>Mandarin</strong>, calling Rose-ringed Parakeet [Highfields Lake; David Parkin].  	
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">SMEW</span> [adult drake, Chainbridge Scrape late afternoon], 5 <span class="style6">Whooper Swan</span> [Chainbridge Pit; Stu Davenport], 2 <span class="style6">Pintail</span> [pair neatholme Pit], 7 Shelduck, 7 <span class="style6">Great White Egret</span> [Neatholme Fen; Peter Burrill]. 
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- c.52 <span class="style6">Whooper Swan</span> [7 Chainbridge Pit, this evening; Janice Bradley; 20 over Claywoth Copse 16:40, 25 heading north over Clayworth Canal 17:09; Dave Richardson], 7 <span class="style6">Cattle Egret</span> [in cattle field on the west side of the river opposite Tiln].
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><img src="archive-2025/gos1.jpg"/><img src="archive-2025/gos.jpg"/> Goshawk - Welbeck Raptor Watchpoint  © 
+Ian Bollen.
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p> <br/>
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 19 <span class="style6">Golden Plover</span>, 4 <span class="style6">Grey Partridge</span>, 2 <span class="style6">Stonechat</span>, Redwing, Fieldfare, Yellowhammer, c.30 Linnet [Clayworth Common; Dave Richardson].  
+
+</p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Costock</strong></span> - <span class="style6">Raven</span> [calling, low over Intake Wood then across fields south west 15:00, Holy Cross];
+
+Also <span class="style6">Red Kite</span> [last two mornings, very low over convent, 07:30am;
+
+Mother Mary Julian].
+ </p>
+[2026-03-15 04:02:15] Tuple extraction failed for <p><span class="style19"><strong>Flinton</strong></span> - <span class="style6">RUSSIAN WHITE-FRONTED GEESE</span> [single with feral geese on Flinton Hall Lake, early morning; Tracy Hempstead].
+	
+	  
+
+  </p>
+[2026-03-15 04:02:15] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-03-15 04:02:15] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
