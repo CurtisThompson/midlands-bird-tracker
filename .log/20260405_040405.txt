@@ -1,0 +1,20 @@
+[2026-04-05 04:04:05] Logging initialised in ./.log/20260405_040405.txt
+[2026-04-05 04:04:05] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-04-05 04:04:06] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 7320
+[2026-04-05 04:04:06] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-04-05 04:04:16] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-04-05 04:04:16] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-04-05 04:04:17] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 4714
+[2026-04-05 04:04:17] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [Neatholme Fen; 
+Martin McCallum].
+</p>
+[2026-04-05 04:04:17] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Green Sandpiper</span>  [Chainbridge Lane West; Martin McCallum], 2 Egyptian Geese [Water ski Pit], 
+Little Egret [Neatholme Scrape],
+Shelduck, c.50 Shoveler [Neatholme Fen]
+Oystercatcher, 3 Egyptian Geese [Field by Chainbridge lane bridge]; Peter Burrill].
+
+</p>
+[2026-04-05 04:04:17] Tuple extraction failed for <p><span class="style19"><strong>Skegby</strong></span> - <span class="style6">OSPREY</span> [flying north mobbed by Herring Gulls, 16:20; Darren Hall].  
+</p>
+[2026-04-05 04:04:17] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-04-05 04:04:17] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
