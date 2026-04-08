@@ -1,0 +1,29 @@
+[2026-04-08 04:02:42] Logging initialised in ./.log/20260408_040242.txt
+[2026-04-08 04:02:42] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-04-08 04:02:43] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8103
+[2026-04-08 04:02:43] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-04-08 04:02:44] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 401 None
+[2026-04-08 04:02:44] Empty dataframe. No sightings saved to ./data/scrape_extracts/lros.parquet
+[2026-04-08 04:02:44] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-04-08 04:02:44] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 5546
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 2 <span class="style6">Yellow Wagtail</span> [semi-ploughed field near Neatholme Bridge, late morning; Keith Fisher],   <span class="style6">Garden Warbler</span>, <span class="style6">Willow Warbler</span> [Neatholme Lane; Dave Richardson].
+</p>
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Averham</strong></span> - <span class="style6">Swallow</span> [on overhead wires; Ian Smith].
+</p>
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [still Neatholme Fen, this afternoon; Tim Carter], Egyptian Geese [with 4 young], 50+<span class="style6">Sand Martin</span>, <span class="style6">House Martin</span>, several Blackcap and Chiffchaff [Neatholme Area; Martin McCallam]. 
+</p>
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 5 <span class="style6">Ruff</span>, 2 <span class="style6">Redshank</span>, <span class="style6">Green Sandpiper</span> [Chainbridge Pit, mid-morning], 2 <span class="style6">LRP</span>, <span class="style6">Ringed Plover</span>, 2 Oystercatcher, <span class="style6">Redshank</span> [Neatholme Fen; Stu Davenport],  2 <span class="style6">Swallow</span>, 2 <span class="style6">Willow Warbler</span> [Hawthorne Lane; Keith Fisher, Tim Carter].
+</p>
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [Neatholme Fen; 
+Martin McCallum].
+</p>
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Green Sandpiper</span>  [Chainbridge Lane West; Martin McCallum], 2 Egyptian Geese [Water ski Pit], 
+Little Egret [Neatholme Scrape],
+Shelduck, c.50 Shoveler [Neatholme Fen]
+Oystercatcher, 3 Egyptian Geese [Field by Chainbridge lane bridge]; Peter Burrill].
+
+</p>
+[2026-04-08 04:02:44] Tuple extraction failed for <p><span class="style19"><strong>Skegby</strong></span> - <span class="style6">OSPREY</span> [flying north mobbed by Herring Gulls, 16:20; Darren Hall].  
+</p>
+[2026-04-08 04:02:44] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-04-08 04:02:44] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
