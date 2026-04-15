@@ -1,0 +1,11 @@
+[2026-04-15 04:06:18] Logging initialised in ./.log/20260415_040618.txt
+[2026-04-15 04:06:18] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-04-15 04:06:19] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 9316
+[2026-04-15 04:06:19] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-04-15 04:06:28] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-04-15 04:06:28] Tuple extraction failed for <p><em>Croft</em>: <span style="color: #0000ff;"><strong>Stone-Curlew</strong> </span>sound-recorded over at 04:36.</p>
+[2026-04-15 04:06:28] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-04-15 04:08:44] Failed to get https://www.nottsbirders.net/latest_sightings.html page content
+[2026-04-15 04:08:44] HTTPSConnectionPool(host='www.nottsbirders.net', port=443): Max retries exceeded with url: /latest_sightings.html (Caused by NewConnectionError("HTTPSConnection(host='www.nottsbirders.net', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+[2026-04-15 04:08:44] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-04-15 04:08:44] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
