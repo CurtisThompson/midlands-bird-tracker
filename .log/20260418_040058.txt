@@ -1,0 +1,73 @@
+[2026-04-18 04:00:58] Logging initialised in ./.log/20260418_040058.txt
+[2026-04-18 04:00:58] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-04-18 04:00:59] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 9800
+[2026-04-18 04:00:59] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-04-18 04:01:08] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-04-18 04:01:08] Tuple extraction failed for <p>Cossington Meadows: 1 <strong>Cuckoo</strong>.</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><em>Croft</em>: <span style="color: #0000ff;"><strong>Stone-Curlew</strong> </span>sound-recorded over at 04:36.</p>
+[2026-04-18 04:01:08] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-04-18 04:01:08] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 9401
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Cuckoo</span> [Chainbridge area/Bunker Wood, this morning], <span class="style6">Green Sandpiper</span>   [Neatholme Fen], <span class="style6">Common Tern</span> [Bellmoor Lake].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 2 <span class="style6">Reed Warbler</span> [Bellmoor Lake], 2 <span class="style6">Cattle Egret</span> [cattle field, south of Chainbridge Pit], <span class="style6">Cuckoo</span> [near Tiln Wood], 2 <span class="style6">Northern Wheatear</span>, 2 <span class="style6">Yellow Wagtail</span> [ploughed field top of Neatholme Lane]. 
+
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Cossall</strong></span> - 2 <strong>White Stork</strong> [flew over this afternoon; Jeremy Burnside].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">SPOONBILL</span> [flew over Chainbridge Scrape heading south late morning; Keith Fisher], 5 <span class="style6">Cattle Egret</span> [Chainbridge Pit], 4 <span class="style6">Goldeneye</span> [pair Neatholme Scrape, 2 females Neatholme Fen; Garry Hobson].  
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Trowell</strong></span> - <span class="style6">RING OUZEL</span> [in field behind Trowell Garden Centre viewed from Swansea Bridge, 08:50 - 09:00; Nige Davis]. 
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 3 <span class="style6">Cattle Egret</span> [in Cattle field between Tiln Nort/ Chainbridge Pit, 11:00], 3 <span class="style6">Pink-footed Geese</span> [Bellmoor Lake], <span class="style6">Stonechat</span> [Conservation Lake], 7 <span class="style6">Yellow Wagtail</span>, <span class="style6">Northern Wheatear</span> [Tiln  North].
+
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Ranby</strong></span> - <span class="style6">Grasshopper Warbler</span>, 2 <span class="style6">Northern Wheatear</span> [private Farm, near the village this morning].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 5+ <span class="style6">Northern Wheatear</span> [Tiln North/Clayworth Common], 20+ <span class="style6">Yellow Wagtail</span>, 2 <span class="style6">White Wagtail</span> [Tiln North, 18:30], <span class="style6">Cuckoo</span> [calling, riverside of Chainbridge Pit, 19:00], <span class="style6">Common Sandpiper</span> [Bellmoor Lake].  
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Laneham</strong></span> - <span class="style6">Common Redstart</span> [male, in roadside hedge just north of the village along Helenship Lane, 09:10; Josh Jones]. 
+
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Headon</strong></span> - <span class="style6">OSPREY</span> [flew north-east over  the village, 16:08; 
+Anthony Swindells].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Northern Wheatear</span>, 9 <span class="style6">Yellow Wagtail</span> [Tiln North], 3 Oystercatcher [Conservation Lake], <span class="style6">Red-crested Pochard</span>, <span class="style6">Goldeneye</span> [Neatholme Scrape],  6 Goldeneye, <span class="style6">Garden Warbler</span>, 4+Blackcap, c.100 Sand Martin, 5+Swallow [Neathome Pit; Gary Hobson, Martin McCallum, 
+
+
+Michael Wilkinson]. </p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Northern Wheatear</span> [Tiln North], <span class="style6">Pink-footed Goose</span> [Clayworth Common], <span class="style6">Yellow Wagtail</span> [Neatholme Fen], <span class="style6">Green Sandpiper</span>, several <span class="style6">Whitethroat</span>, <span class="style6">Sedge Warbler</span> [Chainbridge Pit; Malc Goodman]. 
+
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Kirton</strong></span> -  
+  <span class="style6">Northern Wheatear</span>, <span class="style6">Whitethroat</span> (Alan Scrimshaw).
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><br/>
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 2 <span class="style6">Northern Wheatear</span>, <span class="style6">Yellow Wagtail</span> [Tiln North], <span class="style6">Common Whitethroat</span> [The Willows], <span class="style6">Reed Warbler</span> [Neatholme Scrape; ; Darren Houseman], 
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p>
+<span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Pink-footed Goose</span>, 2 <span class="style6">Northern Wheatear</span>, 5 <span class="style6">Yellow Wagtail</span> [Tiln North; Dave Richardson], 5 <span class="style6">Whooper Swan</span>, Little Egret, 4 Blackcap [Neatholme scrape], 
+
+ Shelduck, Oystercatcher [Alan’s meadow], 6 <span class="style6">Ruff</span>, <span class="style6">Redshank</span> [Chainbridge pit; Peter Burrill].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 2 <span class="style6">Yellow Wagtail</span> [semi-ploughed field near Neatholme Bridge, late morning; Keith Fisher],   <span class="style6">Garden Warbler</span>, <span class="style6">Willow Warbler</span> [Neatholme Lane; Dave Richardson].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Averham</strong></span> - <span class="style6">Swallow</span> [on overhead wires; Ian Smith].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [still Neatholme Fen, this afternoon; Tim Carter], Egyptian Geese [with 4 young], 50+<span class="style6">Sand Martin</span>, <span class="style6">House Martin</span>, several Blackcap and Chiffchaff [Neatholme Area; Martin McCallam]. 
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- 5 <span class="style6">Ruff</span>, 2 <span class="style6">Redshank</span>, <span class="style6">Green Sandpiper</span> [Chainbridge Pit, mid-morning], 2 <span class="style6">LRP</span>, <span class="style6">Ringed Plover</span>, 2 Oystercatcher, <span class="style6">Redshank</span> [Neatholme Fen; Stu Davenport],  2 <span class="style6">Swallow</span>, 2 <span class="style6">Willow Warbler</span> [Hawthorne Lane; Keith Fisher, Tim Carter].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">GLOSSY IBIS</span> [Neatholme Fen; 
+Martin McCallum].
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Lound</strong></span> <span class="style19"><strong>[Idle Valley NR] </strong></span>- <span class="style6">Green Sandpiper</span>  [Chainbridge Lane West; Martin McCallum], 2 Egyptian Geese [Water ski Pit], 
+Little Egret [Neatholme Scrape],
+Shelduck, c.50 Shoveler [Neatholme Fen]
+Oystercatcher, 3 Egyptian Geese [Field by Chainbridge lane bridge]; Peter Burrill].
+
+</p>
+[2026-04-18 04:01:08] Tuple extraction failed for <p><span class="style19"><strong>Skegby</strong></span> - <span class="style6">OSPREY</span> [flying north mobbed by Herring Gulls, 16:20; Darren Hall].  
+</p>
+[2026-04-18 04:01:09] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-04-18 04:01:09] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
