@@ -1,0 +1,51 @@
+[2026-05-22 04:31:38] Logging initialised in ./.log/20260522_043138.txt
+[2026-05-22 04:31:38] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-05-22 04:31:39] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 10143
+[2026-05-22 04:31:39] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-05-22 04:31:40] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 401 None
+[2026-05-22 04:31:40] Empty dataframe. No sightings saved to ./data/scrape_extracts/lros.parquet
+[2026-05-22 04:31:40] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-05-22 04:31:40] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 9345
+[2026-05-22 04:31:40] Tuple extraction failed for <p><span class="style19"><strong>Meering</strong></span> - <span class="style119">Goosander</span> [redhead, River Trent this morning], 2 <span class="style6">Cuckoo</span>, 9 Warbler species; Robert Carr.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><span class="style19"><strong>Costock</strong></span> - 6 <span class="style6">Red Kite</span> [roosting in a small group of trees, at the Holy Cross Convent, 06:30; Sister Mary Julian].  
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><br/>
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><br/>
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><span class="style19"><strong>Budby</strong></span> - <span class="style6">SANDERLING</span> [Gleathorpe Grange Lake,  
+ 09:48 present for 30minutes only; Alan Scrimshaw]. 
+ </p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> 1st Place: Leicestershire &amp; Rutland - 138 species.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> 2nd Place: Nottinghamshire - 136 species.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> 3rd Place: Derbyshire - 134 species.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> Best Team list: Rutland Lockdowners - 107 species.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> Best Individual list: Jason He (L&amp;R) 94 species.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> Best individual Green list: Jason He (L&amp;R) 94 species.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p> Best find of the Day: Hen/Montagu's Harrier, Rob Smith, Paul Hobson et al - Lound GP, Notts.	
+<img src="archive-2025/ringtail.jpg"/> Hen/Montagu's Harrier - Lound © 
+  Rob Smith.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><br/>
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><br/>
+<img src="archive-2025/cuckoo5.jpg"/><img src="archive-2025/cuckoo6.jpg"/> Cuckoo "hepatic" female - Attenborough Nature Reserve © 
+  Gary Barber.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><br/>
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><span class="style19"><strong>Beeston</strong></span> - <strong>White Stork</strong> ["green davic ring GBP3, male that originated from Poland and later participarted in a rehabilitation reloocation project"; sat on pylon Beeston Weir fields, this morning then flew low north-east 10:00; Nigel Bosworth]. 
+<img src="archive-2025/stork.jpg"/> White Stork - Beeston © 
+  Simon Roberts.
+</p>
+[2026-05-22 04:31:40] Tuple extraction failed for <p><br/>
+</p>
+[2026-05-22 04:31:40] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-05-22 04:31:40] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
