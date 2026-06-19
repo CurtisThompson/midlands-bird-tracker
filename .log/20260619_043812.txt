@@ -1,0 +1,15 @@
+[2026-06-19 04:38:12] Logging initialised in ./.log/20260619_043812.txt
+[2026-06-19 04:38:12] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-06-19 04:38:13] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8969
+[2026-06-19 04:38:13] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-06-19 04:38:22] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-06-19 04:38:23] Tuple extraction failed for <p><em>Quorn</em>: <strong>Crane</strong> flew east at 18:30.</p>
+[2026-06-19 04:38:23] Tuple extraction failed for <p style="text-align: center;"><img alt="" class="wp-image-18503 aligncenter size-large" decoding="async" height="850" loading="lazy" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" src="https://lros.org.uk/wp-content/uploads/2026/05/rnduck_str030526_cmh-1024x850.jpg" srcset="https://lros.org.uk/wp-content/uploads/2026/05/rnduck_str030526_cmh-1024x850.jpg 1024w, https://lros.org.uk/wp-content/uploads/2026/05/rnduck_str030526_cmh-980x813.jpg 980w, https://lros.org.uk/wp-content/uploads/2026/05/rnduck_str030526_cmh-480x398.jpg 480w" width="1024"/></p>
+[2026-06-19 04:38:23] Tuple extraction failed for <p style="text-align: center;">Drake Ring-necked Duck, Stanford Res © Chris Hubbard</p>
+[2026-06-19 04:38:23] Tuple extraction failed for <p><em>Rutland</em> Water: 2 <strong>Black Terns</strong>, Lagoon 1; 4 <strong>Wood Sandpipers</strong>, Lagoon 4 + 2 <strong>Bar-tailed Godwits</strong> flew over.</p>
+[2026-06-19 04:38:23] Tuple extraction failed for <p> </p>
+[2026-06-19 04:38:23] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-06-19 04:38:23] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 503 16710
+[2026-06-19 04:38:23] Empty dataframe. No sightings saved to ./data/scrape_extracts/notts.parquet
+[2026-06-19 04:38:23] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-06-19 04:38:23] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
