@@ -1,0 +1,27 @@
+[2026-07-12 06:09:46] Logging initialised in ./.log/20260712_060946.txt
+[2026-07-12 06:09:46] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-07-12 06:09:47] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8092
+[2026-07-12 06:09:47] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-07-12 06:09:47] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-07-12 06:09:47] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-07-12 06:09:48] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 9332
+[2026-07-12 06:09:48] Tuple extraction failed for <p><span class="style19"><strong>Basford</strong></span> - <span class="style6">Raven</span> [on roof tops, this afternoon; Susan Hill].
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><span class="style19"><strong>Trowell</strong></span> - <span class="style6">Red Kite</span> [flew over south, 07:00; David Parkin].
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><span class="style19"><strong>Budby</strong></span> - 11 <strong>Mandarin</strong>, <span class="style6">Hobby</span>, 2 <span class="style6">Cuckoo</span> [Budby Flash, 09:43; Alan Scrimshaw].  
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><br/>
+<img src="archive-2025/wwbt.jpg"/><img src="archive-2025/wwbt1.jpg"/><img src="archive-2025/wwbt2.jpg"/>White-winged Black Tern - Holme Pierrepont  © 
+  Alan Clewes.
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-12 06:09:48] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-12 06:09:48] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-07-12 06:09:48] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
