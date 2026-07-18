@@ -1,0 +1,21 @@
+[2026-07-18 05:32:58] Logging initialised in ./.log/20260718_053258.txt
+[2026-07-18 05:32:58] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-07-18 05:32:59] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 8749
+[2026-07-18 05:32:59] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-07-18 05:32:59] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-07-18 05:33:00] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-07-18 05:33:00] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 6518
+[2026-07-18 05:33:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-18 05:33:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-18 05:33:00] Tuple extraction failed for <p><br/>
+<img src="archive-2025/nh1.jpg"/>Black-crowned Night Heron - Attenborough Nature Reserve  © 
+  Andy Hall.
+
+ 
+</p>
+[2026-07-18 05:33:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-07-18 05:33:00] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-07-18 05:33:00] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
