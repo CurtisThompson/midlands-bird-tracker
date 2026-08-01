@@ -1,0 +1,30 @@
+[2026-08-01 06:04:58] Logging initialised in ./.log/20260801_060458.txt
+[2026-08-01 06:04:58] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-08-01 06:04:59] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 10427
+[2026-08-01 06:04:59] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-08-01 06:04:59] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-08-01 06:05:00] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-08-01 06:05:00] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 8657
+[2026-08-01 06:05:00] Tuple extraction failed for <p><span class="style19"><strong>Costock</strong></span> - 2 <span class="style6">Raven</span> [over Holy Cross, 19:00, grunting; 
+Mother Mary Julian CHC].
+
+
+</p>
+[2026-08-01 06:05:00] Tuple extraction failed for <p><span class="style19"><strong>Ompton</strong></span> - 3 <span class="style6">Grey Partridge</span> [on the lane just before Ompton Water Towers; Sharon Wilson].
+</p>
+[2026-08-01 06:05:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-01 06:05:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-01 06:05:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-01 06:05:00] Tuple extraction failed for <p><br/>
+<img src="archive-2025/nh1.jpg"/>Black-crowned Night Heron - Attenborough Nature Reserve  © 
+  Andy Hall.
+
+ 
+</p>
+[2026-08-01 06:05:00] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-01 06:05:01] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-08-01 06:05:01] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
