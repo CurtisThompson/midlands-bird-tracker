@@ -1,0 +1,33 @@
+[2026-08-02 06:08:06] Logging initialised in ./.log/20260802_060806.txt
+[2026-08-02 06:08:06] Starting new HTTPS connection (1): www.derbyshireos.org.uk:443
+[2026-08-02 06:08:07] https://www.derbyshireos.org.uk:443 "GET /news.php HTTP/1.1" 200 6751
+[2026-08-02 06:08:07] Starting new HTTPS connection (1): lros.org.uk:443
+[2026-08-02 06:08:07] https://lros.org.uk:443 "GET /sightings-records/latest-bird-news/ HTTP/1.1" 200 None
+[2026-08-02 06:08:07] Empty dataframe. No sightings saved to ./data/scrape_extracts/lros.parquet
+[2026-08-02 06:08:07] Starting new HTTPS connection (1): www.nottsbirders.net:443
+[2026-08-02 06:08:08] https://www.nottsbirders.net:443 "GET /latest_sightings.html HTTP/1.1" 200 9697
+[2026-08-02 06:08:08] Tuple extraction failed for <p><span class="style19"><strong>Meering</strong></span> - <strong>Mandarin</strong> [female, on small pool to the right of the viewing screen, late morning; Robert Carr 
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><span class="style19"><strong>Costock</strong></span> - 2 <span class="style6">Raven</span> [over Holy Cross, 19:00, grunting; 
+Mother Mary Julian CHC].
+
+
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><span class="style19"><strong>Ompton</strong></span> - 3 <span class="style6">Grey Partridge</span> [on the lane just before Ompton Water Towers; Sharon Wilson].
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><br/>
+<img src="archive-2025/nh1.jpg"/>Black-crowned Night Heron - Attenborough Nature Reserve  © 
+  Andy Hall.
+
+ 
+</p>
+[2026-08-02 06:08:08] Tuple extraction failed for <p><br/>
+</p>
+[2026-08-02 06:08:08] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [29:5: width]
+[2026-08-02 06:08:08] Property: Invalid value for "CSS Level 2.1" property: calc(100% - 16px) [1:27: width]
